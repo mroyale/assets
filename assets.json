@@ -16,7 +16,7 @@
         {"name": "mysteryBox", "startTile": 1080, "tiles":[1080, 1080, 1080, 1081, 1082, 1081], "delay": 4}
     ],
     "skins":{
-        "count": 35,
+        "count": 37,
         "properties":[
         ]
     }
