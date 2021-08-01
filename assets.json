@@ -1,9 +1,9 @@
 {
     "tileAnim":[
-        {"name": "water", "startTile": 729, "tiles":[729, 740], "delay": 30},
-        {"name": "water", "startTile": 795, "tiles":[795, 806], "delay": 30},
-        {"name": "water", "startTile": 861, "tiles":[861, 872], "delay": 30},
-        {"name": "water", "startTile": 1257, "tiles":[1257, 1268], "delay": 30},
+        {"name": "water", "startTile": 729, "tiles":[729, 740], "delay": 20},
+        {"name": "water", "startTile": 795, "tiles":[795, 806], "delay": 20},
+        {"name": "water", "startTile": 861, "tiles":[861, 872], "delay": 20},
+        {"name": "water", "startTile": 1257, "tiles":[1257, 1268], "delay": 20},
         {"name": "mysteryBox", "startTile": 24,  "tiles":[24, 24, 24, 25, 26, 25], "delay": 4},
         {"name": "mysteryBox", "startTile": 90,  "tiles":[90, 90, 90, 91, 92, 91], "delay": 4},
         {"name": "mysteryBox", "startTile": 156, "tiles":[156, 156, 156, 157, 158, 157], "delay": 4},
