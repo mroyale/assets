@@ -8,9 +8,5 @@
         {"name": "vine", "startTile": 93, "tiles":[93, 94], "delay": 10},
         {"name": "vine", "startTile": 95, "tiles":[95, 96], "delay": 10},
         {"name": "vine", "startTile": 97, "tiles":[97, 98], "delay": 10},
-    "skins":{
-        "count": 97,
-        "properties":[
-        ]
-    }
+    ]
 }
