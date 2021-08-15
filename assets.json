@@ -18,15 +18,6 @@
     "skins":{
         "count": 97,
         "properties":[
-            {"id": 0, "forGuests": true},
-            {"id": 1, "forGuests": true},
-            {"id": 2, "forGuests": true},
-            {"id": 3, "forGuests": true},
-            {"id": 4, "forGuests": true},
-            {"id": 5, "forGuests": true},
-            {"id": 6, "forGuests": true},
-            {"id": 7, "forGuests": true},
-            {"id": 8, "forGuests": true}
         ]
     }
 }
