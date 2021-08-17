@@ -1,0 +1,17 @@
+{
+    "tileAnim":[
+        {"name": "grass", "startTile": 40, "tiles":[40, 41, 42, 43, 42, 42, 40, 40], "delay": 4},
+        {"name": "vine", "startTile": 68, "tiles":[68, 69], "delay": 10},
+        {"name": "water", "startTile": 70, "tiles":[70, 72, 74, 76], "delay": 4},
+        {"name": "water", "startTile": 71, "tiles":[71, 73, 75, 77], "delay": 4},
+        {"name": "grassdark", "startTile": 89, "tiles":[89, 90, 91, 92, 91, 91, 89, 89], "delay": 4},
+        {"name": "vine", "startTile": 93, "tiles":[93, 94], "delay": 10},
+        {"name": "vine", "startTile": 95, "tiles":[95, 96], "delay": 10},
+        {"name": "vine", "startTile": 97, "tiles":[97, 98], "delay": 10},
+		{"name": "goal", "startTile": 40, "tiles":[31, 64, 32, 65], "delay": 4},
+    "skins":{
+        "count": 97,
+        "properties":[
+        ]
+    }
+}
