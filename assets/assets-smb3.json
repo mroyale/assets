@@ -10,10 +10,5 @@
         {"name": "prop1", "startTile": 128, "tiles":[128, 192], "delay": 2},
         {"name": "prop2", "startTile": 161, "tiles":[161, 225], "delay": 2},
         {"name": "prop3", "startTile": 194, "tiles":[194, 258], "delay": 2}
-    ],
-    "skins":{
-        "count": 97,
-        "properties":[
-        ]
-    }
+    ]
 }
