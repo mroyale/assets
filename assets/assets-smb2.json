@@ -9,10 +9,5 @@
         {"name": "vine", "startTile": 95, "tiles":[95, 96], "delay": 10},
         {"name": "vine", "startTile": 97, "tiles":[97, 98], "delay": 10},
         {"name": "goal", "startTile": 31, "tiles":[31, 64, 32, 65], "delay": 4}
-    ],
-    "skins":{
-        "count": 97,
-        "properties":[
-        ]
-    }
+    ]
 }
