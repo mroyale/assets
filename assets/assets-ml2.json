@@ -4,10 +4,5 @@
         {"name": "rotatingSemiSolid2", "startTile": 61, "tiles":[61, 62, 63, 64], "delay": 4},
         {"name": "rotatingSemiSolidEdge1", "startTile": 66, "tiles":[66, 67, 68, 69], "delay": 4},
         {"name": "rotatingSemiSolidEdge2", "startTile": 73, "tiles":[73, 74, 75, 76], "delay": 4}
-    ],
-    "skins":{
-        "count": 97,
-        "properties":[
-        ]
-    }
+    ]
 }
