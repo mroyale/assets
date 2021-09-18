@@ -1,7 +1,7 @@
 {
     "tileAnim":[
-        {"name": "mysteryBox", "startTile": 24,  "tiles":[24, 25, 26, 29], "delay": 4},
-        {"name": "water", "startTile": 495,  "tiles":[495, 496, 497, 498, 499, 500, 501, 502, 464, 465, 466, 467, 468, 469, 400, 367], "delay": 1},
+        {"name": "mysteryBox", "startTile": 84,  "tiles":[84, 85, 86, 87], "delay": 4},
+        {"name": "water", "startTile": 231,  "tiles":[231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246], "delay": 1},
         {"name": "lava", "startTile": 156, "tiles":[156, 157, 158, 159], "delay": 4},
 		{"name": "lavaCornerLeft", "startTile": 513, "tiles":[513, 514, 515, 516], "delay": 4},
 		{"name": "lavaLeft", "startTile": 517, "tiles":[517, 518, 519, 520], "delay": 4},
