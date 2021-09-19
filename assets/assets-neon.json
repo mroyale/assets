@@ -2,7 +2,7 @@
     "tileAnim":[
         {"name": "mysteryBox", "startTile": 84,  "tiles":[84, 85, 86, 87], "delay": 4},
         {"name": "water", "startTile": 231,  "tiles":[231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246], "delay": 1},
-		{"name": "water2", "startTile": 24,  "tiles":[24, 25, 26], "delay": 4},
+		{"name": "water2", "startTile": 24,  "tiles":[24, 25, 26, 25], "delay": 4},
 		{"name": "spike", "startTile": 115,  "tiles":[115, 116], "delay": 10},
 		{"name": "bgStar", "startTile": 156,  "tiles":[156, 157], "delay": 10},
 		{"name": "bgMap", "startTile": 147,  "tiles":[147, 148], "delay": 10},
