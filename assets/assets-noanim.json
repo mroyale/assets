@@ -1,0 +1,13 @@
+{
+    "tileData":[
+        {"name": "flipBlock", "tileData":1233333}
+    ],
+    "tileAnim":[
+    ],
+    "skins":{
+        "count": 97,
+        "properties":[
+            {"id": 9,   "music": "https://raw.githubusercontent.com/mroyale/assets/master/audio/music/fnf_toadette.mp3"}
+        ]
+    }
+}
