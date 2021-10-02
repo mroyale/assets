@@ -1,6 +1,6 @@
 {
     "tileAnim":[
-        {"name": "lavaTop", "startTile": 48, "tiles":[48, 48, 50], "delay": 4},
+        {"name": "lavaTop", "startTile": 48, "tiles":[48, 49, 50], "delay": 4},
         {"name": "lavaStandard", "startTile": 15, "tiles":[15, 16, 17], "delay": 4},
         {"name": "lavaFlowTop", "startTile": 51, "tiles":[51, 52, 53], "delay": 4},
         {"name": "lavaFlowLeft", "startTile": 18, "tiles":[18, 19, 20], "delay": 4},
