@@ -1,0 +1,8 @@
+{
+    "tileAnim":[
+        {"name": "mysteryBox", "startTile": 36, "tiles":[36, 37, 38], "delay": 4},
+		{"name": grassLeft", "startTile": 66, "tiles":[66, 67, 68, 67], "delay": 4},
+		{"name": grassMiddle", "startTile": 69, "tiles":[69, 70, 71, 70], "delay": 4},
+		{"name": grassRight", "startTile": 72, "tiles":[72, 73, 74, 73], "delay": 4}
+    ]
+}
