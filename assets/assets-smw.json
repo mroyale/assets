@@ -1,7 +1,9 @@
 {
+    "tileData":[
+        {"id": 0, "name": "flipBlock", "tileData": 917594, "flipData": 24}
+    ],
     "tileAnim":[
         {"name": "mysteryBox", "startTile": 24,  "tiles":[24, 25, 26, 29], "delay": 4},
-		{"name": "flipBlock", "startTile": 90,  "tiles":[90, 91, 92, 93], "delay": 4},
         {"name": "water", "startTile": 495,  "tiles":[495, 496, 497, 498, 499, 500, 501, 502, 464, 465, 466, 467, 468, 469, 400, 367], "delay": 1},
         {"name": "lava", "startTile": 156, "tiles":[156, 157, 158, 159], "delay": 4},
 		{"name": "lavaCornerLeft", "startTile": 513, "tiles":[513, 514, 515, 516], "delay": 4},
