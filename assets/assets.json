@@ -20,6 +20,10 @@
     ],
     "skins":{
         "count": 134,
+        "shop": [
+            {"id": 2, "name": "Red Toad", "coins": 50}
+        ],
+        
         "properties":[
             {"id": 9,   "music": "https://raw.githubusercontent.com/mroyale/assets/master/audio/music/fnf_toadette.mp3"}
         ]
