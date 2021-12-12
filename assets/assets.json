@@ -21,7 +21,26 @@
     "skins":{
         "count": 134,
         "shop": [
-            {"id": 2, "name": "Red Toad", "coins": 50}
+            {'id':2,'name':'Red Toad','coins':50},
+            {'id':3,'name':'Peach','coins':50},
+            {'id':4,'name':'Blue Toad','coins':50},
+            {'id':5,'name':'Yellow Toad','coins':50},
+            {'id':6,'name':'Toadette','coins':50},
+            {'id':7,'name':'Infringio','coins':100},
+            {'id':8,'name':'Mario (SMB2)','coins':100},
+            {'id':9,'name':'Luigi (SMB2)','coins':100},
+            {'id':10,'name':'Mario (SMB3)','coins':100},
+            {'id':11,'name':'Luigi (SMB3)','coins':100},
+            {'id':12,'name':'Mario (SMB3AS)','coins':200},
+            {'id':13,'name':'Luigi (SMB3AS)','coins':200},
+            {'id':14,'name':'Neon Mario','coins':300},
+            {'id':15,'name':'Neon Luigi','coins':300},
+            {'id':16,'name':'Neon Blue Toad','coins':250},
+            {'id':17,'name':'Neon Toadette','coins':250},
+            {'id':18,'name':'Neon Infringio','coins':300},
+            {'id':19,'name':'Mario (SMW)','coins':100},
+            {'id':20,'name':'Mario (SML2DX)','coins':200},
+            {'id':21,'name':'Luigi (SML2DX)','coins':200}
         ],
         
         "properties":[
