@@ -21,7 +21,7 @@
     "skins":{
         "count": 134,
         "shop": [
-            {'id':2,'name':'Red Toad','coins':50},
+            {"id":2,"name":"Red Toad","coins":50},
             {'id':3,'name':'Peach','coins':50},
             {'id':4,'name':'Blue Toad','coins':50},
             {'id':5,'name':'Yellow Toad','coins':50},
