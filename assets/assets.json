@@ -19,7 +19,7 @@
         {"name": "mysteryBox", "startTile": 1080, "tiles":[1080, 1080, 1080, 1081, 1082, 1081], "delay": 4}
     ],
     "skins":{
-        "count": 2,
+        "count": 15,
         "shop": [
             {"id":2,"name":"Red Toad","coins":50},
             {"id":3,"name":"Peach","coins":50},
