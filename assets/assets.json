@@ -152,7 +152,10 @@
 			{"id":130,"name":"Santa Mario","coins":500},
 			{"id":131,"name":"Christmas Toad","coins":450},
 			{"id":132,"name":"Yorgle, Grundle & Rhindle","coins":250},
-			{"id":133,"name":"Sonic (Sonic Jam 6)","coins":250}
+			{"id":133,"name":"Sonic (Sonic Jam 6)","coins":250},
+			{"id":134,"name":"Chuck","coins":50},
+			{"id":135,"name":"Bomb","coins":75},
+			{"id":136,"name":"Bad Piggie","coins":100}
         ],
         
         "properties":[
