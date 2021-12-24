@@ -150,12 +150,17 @@
 			{"id":128,"name":"Bill Rizer","coins":450},
 			{"id":129,"name":"Boo","coins":350},
 			{"id":130,"name":"Santa Mario","coins":500},
+			{"id":141,"name":"Christmas Luigi","coins":500},
 			{"id":131,"name":"Christmas Toad","coins":450},
 			{"id":132,"name":"Yorgle, Grundle & Rhindle","coins":250},
 			{"id":133,"name":"Sonic (Sonic Jam 6)","coins":250},
 			{"id":134,"name":"Chuck","coins":50},
 			{"id":135,"name":"Bomb","coins":75},
-			{"id":136,"name":"Bad Piggie","coins":100}
+			{"id":136,"name":"Bad Piggie","coins":100},
+			{"id":137,"name":"Hakurei Shrine Maiden","coins":300},
+			{"id":138,"name":"Danny","coins":250},
+			{"id":139,"name":"Jotaro \"Kubo\"","coins":300},
+			{"id":140,"name":"Fuego","coins":150}
         ],
         
         "properties":[
