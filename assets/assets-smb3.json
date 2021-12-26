@@ -3,6 +3,7 @@
         {"name": "mysteryBox", "startTile": 24,  "tiles":[24, 25, 26, 28], "delay": 4},
         {"name": "mysteryBox", "startTile": 90,  "tiles":[90, 91, 92, 94], "delay": 4},
         {"name": "breakableBox", "startTile": 156, "tiles":[156, 157, 158, 160], "delay": 4},
+		{"name": "breakableBox", "startTile": 123, "tiles":[123, 124, 125, 127], "delay": 4},
         {"name": "lava", "startTile": 288, "tiles":[288, 289, 290, 289], "delay": 4},
         {"name": "platDecor", "startTile": 420, "tiles":[420, 421, 422, 423], "delay": 4},
         {"name": "goal", "startTile": 57, "tiles":[57, 58, 59], "delay": 4},
