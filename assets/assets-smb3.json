@@ -4,6 +4,7 @@
         {"name": "mysteryBox", "startTile": 90,  "tiles":[90, 91, 92, 94], "delay": 4},
         {"name": "breakableBox", "startTile": 156, "tiles":[156, 157, 158, 160], "delay": 4},
 		{"name": "breakableBox", "startTile": 123, "tiles":[123, 124, 125, 127], "delay": 4},
+		{"name": "breakableBox", "startTile": 321, "tiles":[321, 322, 323, 325], "delay": 4},
 		{"name": "water", "startTile": 288, "tiles":[288, 289, 290, 292], "delay": 6},
         {"name": "lava", "startTile": 255, "tiles":[255, 256, 257, 259], "delay": 4},
         {"name": "platDecor", "startTile": 420, "tiles":[420, 421, 422, 423], "delay": 4},
