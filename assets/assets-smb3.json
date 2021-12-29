@@ -14,6 +14,13 @@
         {"name": "prop2", "startTile": 161, "tiles":[161, 225], "delay": 2},
         {"name": "prop3", "startTile": 194, "tiles":[194, 258], "delay": 2},
 		{"name": "quickSandTop", "startTile": 475,  "tiles":[475, 476, 477, 478], "delay": 4},
-		{"name": "quickSand", "startTile": 508,  "tiles":[508, 509, 510, 511], "delay": 4}
+		{"name": "quickSand", "startTile": 508,  "tiles":[508, 509, 510, 511], "delay": 4},
+		{"name": "toad1", "startTile": 544,  "tiles":[544, 544, 546, 546, 544, 544, 546, 546, 544, 544, 548, 548, 550, 548, 550, 548, 550, 548], "delay": 4},
+		{"name": "toad2", "startTile": 545,  "tiles":[545, 545, 547, 547, 545, 545, 547, 547, 545, 545, 549, 549, 551, 549, 551, 549, 551, 549], "delay": 4},
+		{"name": "toad3", "startTile": 577,  "tiles":[577, 577, 579, 579, 577, 577, 579, 579, 577, 577, 581, 581, 583, 581, 583, 581, 583, 581], "delay": 4},
+		{"name": "toad4", "startTile": 578,  "tiles":[578, 578, 580, 580, 578, 578, 580, 580, 578, 578, 582, 582, 584, 582, 584, 582, 584, 582], "delay": 4},
+		{"name": "kingPlain1", "startTile": 426,  "tiles":[426, 424], "delay": 8},
+		{"name": "kingPlain2", "startTile": 427,  "tiles":[427, 425], "delay": 8},
+		{"name": "kingDesert", "startTile": 357,  "tiles":[357, 387], "delay": 8}
     ]
 }
