@@ -25,10 +25,12 @@
         "count": 2,
         "shop": [
 		{"id":3,"name":"Peach","coins":50},
+		{"id":149,"name":"Daisy","coins":50},
             	{"id":2,"name":"Red Toad","coins":50},
             	{"id":4,"name":"Blue Toad","coins":50},
             	{"id":5,"name":"Yellow Toad","coins":50},
 		{"id":144,"name":"Purple Toad","coins":50},
+		{"id":147,"name":"Green Toad","coins":50,"note":"Kill me. There are 6 toads."},
             	{"id":6,"name":"Toadette","coins":50},
             	{"id":7,"name":"Infringio","coins":100},
             	{"id":8,"name":"Mario (SMB2)","coins":100},
@@ -165,10 +167,13 @@
 		{"id":138,"name":"Danny","coins":250},
 		{"id":139,"name":"Jotaro \"Kubo\"","coins":300},
 		{"id":140,"name":"Fuego","coins":150},
-		{"id":145,"name":"Nathan Spencer","coins":300},
-		{"id":146,"name":"Nathan Spencer (GB)","coins":250},
+		{"id":145,"name":"Nathan Spencer","coins":250},
+		{"id":146,"name":"Nathan Spencer (GB)","coins":300},
 		{"id":142,"name":"Fudgie","coins":150},
-		{"id":143,"name":"Gweenie","coins":100}
+		{"id":143,"name":"Gweenie","coins":100},
+		{"id":148,"name":"Flandre Scarlet","coins":150},
+		{"id":150,"name":"Gold Mario","coins":75},
+		{"id":151,"name":"Hover","coins":80}
         ],
         
         "properties":[
