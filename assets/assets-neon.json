@@ -7,6 +7,7 @@
 		{"name": "bgStar", "startTile": 156,  "tiles":[156, 157], "delay": 10},
 		{"name": "bgMap", "startTile": 147,  "tiles":[147, 148], "delay": 10},
 		{"name": "shipDecor", "startTile": 88,  "tiles":[88, 89, 90, 89], "delay": 4},
-		{"name": "shipMap", "startTile": 117,  "tiles":[117, 118], "delay": 6}
+		{"name": "shipMap", "startTile": 117,  "tiles":[117, 118], "delay": 6},
+		{"name": "hurtStar", "startTile": 264,  "tiles":[264, 265, 266, 265], "delay": 4}
     ]
 }
