@@ -4,7 +4,7 @@
         {"name": "vine1", "startTile": 68, "tiles":[68, 69], "delay": 10},
         {"name": "water1", "startTile": 70, "tiles":[70, 72, 74, 76], "delay": 4},
         {"name": "water2", "startTile": 71, "tiles":[71, 73, 75, 77], "delay": 4},
-		{"name": "mysteryBox", "startTile": 111,  "tiles":[111, 112, 113, 114], "delay": 4},
+		{"name": "mysteryBox", "startTile": 111, "tiles":[111, 112, 113, 114], "delay": 4},
         {"name": "grassdark", "startTile": 89, "tiles":[89, 90, 91, 92, 91, 91, 89, 89], "delay": 4},
         {"name": "vine2", "startTile": 93, "tiles":[93, 94], "delay": 10},
         {"name": "vine3", "startTile": 95, "tiles":[95, 96], "delay": 10},
