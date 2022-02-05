@@ -173,7 +173,12 @@
 		{"id":143,"name":"Gweenie","coins":100},
 		{"id":148,"name":"Flandre Scarlet","coins":150},
 		{"id":150,"name":"Gold Mario","coins":75},
-		{"id":151,"name":"Hover","coins":80}
+		{"id":151,"name":"Hover","coins":80},
+		{"id":152,"name":"Mikan Tsumiki","coins":100},
+		{"id":153,"name":"Sans","coins":125},
+		{"id":154,"name":"Chiaki Nanami","coins":75},
+		{"id":155,"name":"Goomba Mario","coins":100},
+		{"id":156,"name":"Zero Suit Samus","coins":600}
         ],
         
         "properties":[
