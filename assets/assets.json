@@ -178,7 +178,8 @@
 		{"id":153,"name":"Sans","coins":125},
 		{"id":154,"name":"Chiaki Nanami","coins":75},
 		{"id":155,"name":"Goomba Mario","coins":100},
-		{"id":156,"name":"Zero Suit Samus","coins":600}
+		{"id":156,"name":"Zero Suit Samus","coins":600},
+		{"id":157,"name":"Lair & Darby","coins":250}
         ],
         
         "properties":[
