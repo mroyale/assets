@@ -11,9 +11,9 @@
         {"name": "vine2", "startTile": 93, "tiles":[93, 94], "delay": 10},
         {"name": "vine3", "startTile": 95, "tiles":[95, 96], "delay": 10},
         {"name": "vine4", "startTile": 97, "tiles":[97, 98], "delay": 10},
-		{"name": "cloud1", "startTile": 123, "tiles":[123, 123, 126, 129, 129, 132, 132], "delay": 4},
-		{"name": "cloud2", "startTile": 124, "tiles":[124, 124, 127, 130, 130, 133, 133], "delay": 4},
-		{"name": "cloud3", "startTile": 125, "tiles":[125, 125, 128, 131, 131, 134, 134], "delay": 4},
+		{"name": "cloud1", "startTile": 123, "tiles":[123, 123, 126, 129, 129, 132, 132], "delay": 8},
+		{"name": "cloud2", "startTile": 124, "tiles":[124, 124, 127, 130, 130, 133, 133], "delay": 8},
+		{"name": "cloud3", "startTile": 125, "tiles":[125, 125, 128, 131, 131, 134, 134], "delay": 8},
         {"name": "spike", "startTile": 107, "tiles":[107, 108, 109, 110], "delay": 4},
         {"name": "goal", "startTile": 31, "tiles":[31, 64, 32, 65], "delay": 4}
     ]
