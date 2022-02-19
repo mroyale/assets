@@ -18,6 +18,6 @@
 		{"name": "vegetable", "startTile": 446,  "tiles":[446, 447, 448, 449, 450, 451, 452], "delay": 4},
 		{"name": "wheelLeft", "startTile": 29,  "tiles":[29, 31, 32], "delay": 4},
 		{"name": "wheelMid", "startTile": 62,  "tiles":[62, 63, 64], "delay": 4},
-		{"name": "wheelRight", "startTile": 95,  "tiles":[62, 96, 97], "delay": 4}
+		{"name": "wheelRight", "startTile": 95,  "tiles":[95, 96, 97], "delay": 4}
     ]
 }
