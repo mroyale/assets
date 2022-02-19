@@ -185,7 +185,8 @@
 		{"id":159,"name":"Clear Your Cache","coins":250},
 		{"id":160,"name":"Clippy","coins":300},
 		{"id":162,"name":"Not Safe","coins":400},
-		{"id":163,"name":"Grand Dad","coins":400}
+		{"id":163,"name":"Grand Dad","coins":400},
+		{"id":163,"name":"Mario (SMA4)","coins":350}
         ],
         
         "properties":[
