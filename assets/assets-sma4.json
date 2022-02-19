@@ -1,0 +1,23 @@
+{
+    "tileAnim":[
+        {"name": "mysteryBox", "startTile": 24,  "tiles":[24, 25, 26, 28], "delay": 4},
+        {"name": "brickBreak", "startTile": 90,  "tiles":[90, 91, 92, 94], "delay": 4},
+        {"name": "vine", "startTile": 156, "tiles":[156, 157, 158, 160], "delay": 4},
+		{"name": "muncher", "startTile": 123, "tiles":[123, 124, 125, 127], "delay": 4},
+		{"name": "brickBlue", "startTile": 321, "tiles":[321, 322, 323, 325], "delay": 4},
+		{"name": "lava", "startTile": 288, "tiles":[288, 289, 290, 292], "delay": 6},
+        {"name": "water", "startTile": 255, "tiles":[255, 256, 257, 259], "delay": 4},
+        {"name": "platDecor", "startTile": 420, "tiles":[420, 421, 422, 423], "delay": 4},
+        {"name": "goal", "startTile": 57, "tiles":[57, 58, 59], "delay": 4},
+        {"name": "noteBlock", "startTile": 222, "tiles":[222, 223, 224, 223], "delay": 4},
+        {"name": "prop1", "startTile": 128, "tiles":[128, 192], "delay": 2},
+        {"name": "prop2", "startTile": 161, "tiles":[161, 225], "delay": 2},
+        {"name": "prop3", "startTile": 194, "tiles":[194, 258], "delay": 2},
+		{"name": "quickSandTop", "startTile": 475,  "tiles":[475, 476, 477, 478], "delay": 4},
+		{"name": "quickSand", "startTile": 508,  "tiles":[508, 509, 510, 511], "delay": 4},
+		{"name": "vegetable", "startTile": 446,  "tiles":[446, 447, 448, 449, 450, 451, 452], "delay": 4},
+		{"name": "wheelLeft", "startTile": 29,  "tiles":[29, 31, 32], "delay": 4},
+		{"name": "wheelMid", "startTile": 62,  "tiles":[62, 63, 64], "delay": 4},
+		{"name": "wheelRight", "startTile": 95,  "tiles":[62, 96, 97], "delay": 4}
+    ]
+}
