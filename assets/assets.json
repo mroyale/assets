@@ -186,7 +186,8 @@
 		{"id":160,"name":"Clippy","coins":300},
 		{"id":162,"name":"Not Safe","coins":400},
 		{"id":163,"name":"Grand Dad","coins":400},
-		{"id":164,"name":"Mario (SMA4)","coins":350}
+		{"id":164,"name":"Mario (SMA4)","coins":350},
+		{"id":165,"name":"mario alcohol","coins":4200}
         ],
         
         "properties":[
