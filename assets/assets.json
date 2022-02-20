@@ -9,6 +9,7 @@
 		{"name": "water", "startTile": 872, "tiles":[872, 861], "delay": 19},
         {"name": "water", "startTile": 1257, "tiles":[1257, 1268], "delay": 20},
         {"name": "water", "startTile": 1272, "tiles":[1272, 1283], "delay": 20},
+		{"name": "water", "startTile": 1785, "tiles":[1785, 1796], "delay": 20},
         {"name": "mysteryBox", "startTile": 24,  "tiles":[24, 24, 24, 25, 26, 25], "delay": 4},
         {"name": "mysteryBox", "startTile": 90,  "tiles":[90, 90, 90, 91, 92, 91], "delay": 4},
         {"name": "mysteryBox", "startTile": 156, "tiles":[156, 156, 156, 157, 158, 157], "delay": 4},
