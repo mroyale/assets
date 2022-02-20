@@ -9,6 +9,7 @@
         {"name": "water", "startTile": 255, "tiles":[255, 256, 257, 259], "delay": 4},
         {"name": "platDecor", "startTile": 420, "tiles":[420, 421, 422, 423], "delay": 4},
         {"name": "goal", "startTile": 57, "tiles":[57, 58, 59], "delay": 4},
+		{"name": "rouletteBlock", "startTile": 571, "tiles":[571, 572, 573], "delay": 4},
         {"name": "noteBlock", "startTile": 222, "tiles":[222, 223, 224, 223], "delay": 4},
         {"name": "prop1", "startTile": 128, "tiles":[128, 192], "delay": 2},
         {"name": "prop2", "startTile": 161, "tiles":[161, 225], "delay": 2},
