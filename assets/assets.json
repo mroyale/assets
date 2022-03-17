@@ -194,7 +194,9 @@
         ],
         
         "properties":[
-            {"id": 6,   "music": "https://raw.githubusercontent.com/mroyale/assets/master/audio/music/fnf_toadette.mp3"}
+            {"id": 6,   "music": "https://raw.githubusercontent.com/mroyale/assets/master/audio/skins/fnf_toadette.mp3"},
+			{"id": 60,	"music": "https://raw.githubusercontent.com/mroyale/assets/master/audio/skins/yoshi.mp3"},
+			{"id": 70,	"music": "https://raw.githubusercontent.com/mroyale/assets/master/audio/skins/yoshi.mp3"}
         ]
     }
 }
