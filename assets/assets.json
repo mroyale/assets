@@ -186,7 +186,8 @@
 		{"id":163,"name":"Grand Dad","coins":400},
 		{"id":164,"name":"Mario (SMA4)","coins":350},
 		{"id":165,"name":"mario alcohol","coins":4200},
-		{"id":166,"name":"Giorno Giovanna","coins":650}
+		{"id":166,"name":"Giorno Giovanna","coins":650},
+		{"id":168,"name":"Mario From Memory","coins":60}
         ],
         
         "properties":[
