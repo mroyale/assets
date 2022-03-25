@@ -187,7 +187,8 @@
 		{"id":164,"name":"Mario (SMA4)","coins":350},
 		{"id":165,"name":"mario alcohol","coins":4200},
 		{"id":166,"name":"Giorno Giovanna","coins":650},
-		{"id":168,"name":"Mario From Memory","coins":60}
+		{"id":168,"name":"Mario From Memory","coins":60},
+		{"id":169,"name":"Frey","coins":150}
         ],
         
         "properties":[
