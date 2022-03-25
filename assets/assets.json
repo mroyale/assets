@@ -191,13 +191,17 @@
 		{"id":169,"name":"Frey","coins":150},
 		{"id":170,"name":"Cyanin","coins":250},
 		{"id":171,"name":"Squarix","coins":215},
-		{"id":172,"name":"Avery","coins":500}
-        ],
+		{"id":172,"name":"Avery","coins":500},
+		{"id":173,"name":"Avery (8-bit color)","coins":500},
+		{"id":174,"name":"Clovis","coins":475},
+		{"id":175,"name":"Clovis (8-bit color)","coins":475},
+		{"id":176,"name":"Hallow Mario","coins":250}
+    ],
         
-        "properties":[
-            {"id": 6,   "music": "https://raw.githubusercontent.com/mroyale/assets/master/audio/skins/fnf_toadette.mp3"},
-			{"id": 60,	"music": "https://raw.githubusercontent.com/mroyale/assets/master/audio/skins/yoshi.mp3"},
-			{"id": 70,	"music": "https://raw.githubusercontent.com/mroyale/assets/master/audio/skins/yoshi.mp3"}
-        ]
+    "properties":[
+        {"id": 6,   "music": "https://raw.githubusercontent.com/mroyale/assets/master/audio/skins/fnf_toadette.mp3"},
+		{"id": 60,	"music": "https://raw.githubusercontent.com/mroyale/assets/master/audio/skins/yoshi.mp3"},
+		{"id": 70,	"music": "https://raw.githubusercontent.com/mroyale/assets/master/audio/skins/yoshi.mp3"}
+    ]
     }
 }
