@@ -190,7 +190,8 @@
 		{"id":168,"name":"Mario From Memory","coins":60},
 		{"id":169,"name":"Frey","coins":150},
 		{"id":170,"name":"Cyanin","coins":250},
-		{"id":171,"name":"Squarix","coins":215}
+		{"id":171,"name":"Squarix","coins":215},
+		{"id":172,"name":"Avery","coins":500}
         ],
         
         "properties":[
