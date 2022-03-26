@@ -197,7 +197,9 @@
 		{"id":175,"name":"Clovis (8-bit color)","coins":475},
 		{"id":176,"name":"Hallow Mario","coins":250},
 		{"id":177,"name":"Reaction Coin","coins":400},
-		{"id":178,"name":"Purple Player","coins":350}
+		{"id":178,"name":"Purple Player","coins":350},
+		{"id":179,"name":"Mario Bros World","coins":250},
+		{"id":180,"name":"Kirby","coins":185}
     ],
         
     "properties":[
