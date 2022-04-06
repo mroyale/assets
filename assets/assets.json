@@ -76,6 +76,7 @@
 		{"id":47,"name":"Remy","coins":200},
 		{"id":48,"name":"Mario (SSF2)","coins":450},
 		{"id":49,"name":"Walt the Cat","coins":50},
+		{"id":181,"name":"Walt the Cat (SMB3)","coins":75},
 		{"id":50,"name":"Micky Mouse","coins":300},
 		{"id":51,"name":"Blue Toadio","coins":500},
 		{"id":52,"name":"Yellow Toadio","coins":500},
@@ -145,6 +146,7 @@
 		{"id":116,"name":"Milde & Bumpty","coins":400},
 		{"id":117,"name":"Mario (SML)","coins":150},
 		{"id":118,"name":"Boyfriend","coins":300},
+		{"id":183,"name":"Sean (FNF AU)","coins":300},
 		{"id":119,"name":"FNF Arrow","coins":200},
 		{"id":120,"name":"Windows","coins":450},
 		{"id":121,"name":"Doox V2","coins":150},
@@ -199,7 +201,11 @@
 		{"id":177,"name":"Reaction Coin","coins":400},
 		{"id":178,"name":"Purple Player","coins":350},
 		{"id":179,"name":"Mario Bros World","coins":250},
-		{"id":180,"name":"Kirby","coins":185}
+		{"id":180,"name":"Kirby","coins":185},
+		{"id":182,"name":"Luigibot","coins":70},
+		{"id":184,"name":"Polterdee","coins":250},
+		{"id":185,"name":"Smoke","coins":350},
+		{"id":186,"name":"Anala","coins":350}
     ],
         
     "properties":[
