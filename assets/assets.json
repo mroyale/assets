@@ -12,7 +12,7 @@
 		{"name": "water", "startTile": 1785, "tiles":[1785, 1796], "delay": 20},
         {"name": "mysteryBox", "startTile": 24,  "tiles":[24, 24, 24, 25, 26, 25], "delay": 4},
         {"name": "mysteryBox", "startTile": 90,  "tiles":[90, 90, 90, 91, 92, 91], "delay": 4},
-        {"name": "mysteryBox", "startTile": 156, "tiles":[156, 156, 156, 157, 158, 157], "delay": 4},
+        {"namefff": "mysteryBox", "startTile": 156, "tiles":[156, 156, 156, 157, 158, 157], "delay": 4},
         {"name": "mysteryBox", "startTile": 222, "tiles":[222, 222, 222, 223, 224, 223], "delay": 4},
         {"name": "mysteryBox", "startTile": 288, "tiles":[288, 288, 288, 289, 290, 289], "delay": 4},
         {"name": "mysteryBox", "startTile": 1080, "tiles":[1080, 1080, 1080, 1081, 1082, 1081], "delay": 4},
@@ -127,6 +127,7 @@
 		{"id":97,"name":"Mario (SMB3 DOS)","coins":300},
 		{"id":98,"name":"Impostor","coins":500},
 		{"id":99,"name":"Steve","coins":200},
+		{"id":189,"name":"Zumbi Blocks","coins":180},
 		{"id":100,"name":"Mario (SML2 SNES)","coins":300},
 		{"id":101,"name":"Somari","coins":450},
 		{"id":102,"name":"Chimerio","coins":300},
@@ -147,6 +148,7 @@
 		{"id":117,"name":"Mario (SML)","coins":150},
 		{"id":118,"name":"Boyfriend","coins":300},
 		{"id":183,"name":"Sean (FNF AU)","coins":300},
+		{"id":187,"name":"Boyfriend (SMB Funk Mix)","coins":300},
 		{"id":119,"name":"FNF Arrow","coins":200},
 		{"id":120,"name":"Windows","coins":450},
 		{"id":121,"name":"Doox V2","coins":150},
@@ -205,7 +207,11 @@
 		{"id":182,"name":"Luigibot","coins":70},
 		{"id":184,"name":"Polterdee","coins":250},
 		{"id":185,"name":"Smoke","coins":350},
-		{"id":186,"name":"Anala","coins":350}
+		{"id":186,"name":"Anala","coins":350},
+		{"id":188,"name":"Beatrice","coins":200},
+		{"id":190,"name":"Icon (Geometry Dash)","coins":300},
+		{"id":191,"name":"Nipper Plant","coins":400},
+		{"id":192,"name":"Mario (SMB1 Beta)","coins":250}
     ],
         
     "properties":[
