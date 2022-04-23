@@ -1,0 +1,10 @@
+{
+    "tileAnim":[
+        {"name": "mysteryBox", "startTile": 24,  "tiles":[24, 24, 24, 25, 26, 25], "delay": 4},
+		{"name": "muncherGreen", "startTile": 122, "tiles":[122, 123], "delay": 10},
+		{"name": "muncherRegular", "startTile": 124, "tiles":[124, 125], "delay": 10},
+		{"name": "water", "startTile": 126, "tiles":[126, 127], "delay": 20},
+		{"name": "lava", "startTile": 129, "tiles":[129, 130], "delay": 20},
+		{"name": "shinyBlock", "startTile": 21,  "tiles":[21, 21, 21, 22, 23, 22], "delay": 4}
+    ]
+}
