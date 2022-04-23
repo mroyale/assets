@@ -211,7 +211,17 @@
 		{"id":188,"name":"Beatrice","coins":200},
 		{"id":190,"name":"Icon (Geometry Dash)","coins":300},
 		{"id":191,"name":"Nipper Plant","coins":400},
-		{"id":192,"name":"Mario (SMB1 Beta)","coins":250}
+		{"id":192,"name":"Mario (SMB1 Beta)","coins":250},
+		{"id":193,"name":"Rick Astley","coins":690},
+		{"id":194,"name":"Olivia","coins":100},
+		{"id":195,"name":"SMG4","coins":200},
+		{"id":196,"name":"Hotel Mario","coins":100},
+		{"id":197,"name":"Mario (DK '94)","coins":350},
+		{"id":198,"name":"Mario (SMB1AS)","coins":100},
+		{"id":199,"name":"Barry","coins":250},
+		{"id":200,"name":"Among Us","coins":200},
+		{"id":201,"name":"Jimmy Plasma ","coins":100},
+		{"id":202,"name":"super gnuchks brother ","coins":300}
     ],
         
     "properties":[
