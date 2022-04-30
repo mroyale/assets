@@ -223,7 +223,10 @@
 		{"id":201,"name":"Jimmy Plasma","coins":100},
 		{"id":202,"name":"super gnuchks brother","coins":300},
 		{"id":203,"name":"Purple Coin","coins":100},
-		{"id":204,"name":"💀","coins":6900}
+		{"id":204,"name":"💀","coins":6900},
+		{"id":205,"name":"Edd (Eddsworld)","coins":300},
+		{"id":206,"name":"Marisa/Alterisa","coins":250},
+		{"id":207,"name":"SMM2 Hammer","coins":100}
     ],
         
     "properties":[
