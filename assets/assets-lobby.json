@@ -1,0 +1,32 @@
+{
+    "tileAnim":[
+        {"name": "water", "startTile": 491, "tiles":[491, 492, 493, 494], "delay": 5},
+        {"name": "water", "startTile": 557, "tiles":[557, 558, 559, 560], "delay": 5},
+        {"name": "water", "startTile": 623, "tiles":[623, 624, 625, 626], "delay": 5},
+        {"name": "mysteryBox", "startTile": 24,  "tiles":[24, 24, 24, 25, 26, 25], "delay": 4},
+        {"name": "mysteryBox", "startTile": 90,  "tiles":[90, 90, 90, 91, 92, 91], "delay": 4},
+        {"name": "mysteryBox", "startTile": 156, "tiles":[156, 156, 156, 157, 158, 157], "delay": 4},
+        {"name": "mysteryBox", "startTile": 222, "tiles":[222, 222, 222, 223, 224, 223], "delay": 4},
+		{"name": "fans1", "startTile": 990, "tiles":[990, 997, 1004, 1011], "delay": 30},
+		{"name": "fans2", "startTile": 991, "tiles":[991, 998, 1005, 1012], "delay": 30},
+		{"name": "fans3", "startTile": 992, "tiles":[992, 999, 1006, 1013], "delay": 30},
+		{"name": "fans4", "startTile": 993, "tiles":[993, 1000, 1007, 1014], "delay": 30},
+		{"name": "fans5", "startTile": 994, "tiles":[994, 1001, 1008, 1015], "delay": 30},
+		{"name": "fans6", "startTile": 995, "tiles":[995, 1002, 1009, 1016], "delay": 30},
+		{"name": "fans7", "startTile": 996, "tiles":[996, 1003, 1010, 1017], "delay": 30},
+		{"name": "fans8", "startTile": 1023, "tiles":[1023, 1030, 1037, 1044], "delay": 30},
+		{"name": "fans9", "startTile": 1024, "tiles":[1024, 1031, 1038, 1045], "delay": 30},
+		{"name": "fans10", "startTile": 1025, "tiles":[1025, 1032, 1039, 1046], "delay": 30},
+		{"name": "fans11", "startTile": 1026, "tiles":[1026, 1033, 1040, 1047], "delay": 30},
+		{"name": "fans12", "startTile": 1027, "tiles":[1027, 1034, 1041, 1048], "delay": 30},
+		{"name": "fans13", "startTile": 1028, "tiles":[1028, 1035, 1042, 1049], "delay": 30},
+		{"name": "fans14", "startTile": 1029, "tiles":[1029, 1036, 1043, 1050], "delay": 30},
+		{"name": "fans15", "startTile": 1056, "tiles":[1056, 1063, 1070, 1077], "delay": 30},
+		{"name": "fans16", "startTile": 1057, "tiles":[1057, 1064, 1071, 1078], "delay": 30},
+		{"name": "fans17", "startTile": 1058, "tiles":[1058, 1065, 1072, 1079], "delay": 30},
+		{"name": "fans18", "startTile": 1059, "tiles":[1059, 1066, 1073, 1080], "delay": 30},
+		{"name": "fans19", "startTile": 1060, "tiles":[1060, 1067, 1074, 1081], "delay": 30},
+		{"name": "fans20", "startTile": 1061, "tiles":[1061, 1068, 1075, 1082], "delay": 30},
+		{"name": "fans21", "startTile": 1062, "tiles":[1062, 1069, 1076, 1083], "delay": 30}
+    ]
+}
