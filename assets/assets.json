@@ -149,6 +149,7 @@
 		{"id":118,"name":"Boyfriend","coins":300},
 		{"id":183,"name":"Sean (FNF AU)","coins":300},
 		{"id":187,"name":"Boyfriend (SMB Funk Mix)","coins":300},
+		{"id":213,"name":"Pico (SMB Funk Mix)","coins":300},
 		{"id":119,"name":"FNF Arrow","coins":200},
 		{"id":120,"name":"Windows","coins":450},
 		{"id":121,"name":"Doox V2","coins":150},
@@ -226,7 +227,22 @@
 		{"id":204,"name":"💀","coins":6900},
 		{"id":205,"name":"Edd (Eddsworld)","coins":300},
 		{"id":206,"name":"Marisa/Alterisa","coins":250},
-		{"id":207,"name":"SMM2 Hammer","coins":100}
+		{"id":207,"name":"SMM2 Hammer","coins":100},
+		{"id":208,"name":"Mario (SML2)","coins":200},
+		{"id":209,"name":"The Noise","coins":190},
+		{"id":210,"name":"BouTMarloW","coins":100},
+		{"id":211,"name":"Sad Mouse","coins":300},
+		{"id":212,"name":"Azule (oc)","coins":170},
+		{"id":214,"name":"Paper Mario (SMB3)","coins":350},
+		{"id":215,"name":"Paper Luigi (SMB3)","coins":350},
+		{"id":216,"name":"Skeleton Mario (SMO)","coins":9999},
+		{"id":217,"name":"VVVVVV","coins":125},
+		{"id":218,"name":"Sponge ＭΣΛＴ","coins":130},
+		{"id":219,"name":"R̶a̶y̶ Hoodio","coins":250},
+		{"id":220,"name":"G̶r̶e̶e̶n̶ ̶R̶a̶y̶ Hoodigi","coins":250},
+		{"id":221,"name":"Midnight Lycanroc","coins":500},
+		{"id":222,"name":"Ronald McDonald","coins":500},
+		{"id":223,"name":"Rex","coins":275}
     ],
         
     "properties":[
