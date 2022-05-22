@@ -27,6 +27,8 @@
 		{"name": "fans18", "startTile": 1059, "tiles":[1059, 1066, 1073, 1080], "delay": 60},
 		{"name": "fans19", "startTile": 1060, "tiles":[1060, 1067, 1074, 1081], "delay": 60},
 		{"name": "fans20", "startTile": 1061, "tiles":[1061, 1068, 1075, 1082], "delay": 60},
-		{"name": "fans21", "startTile": 1062, "tiles":[1062, 1069, 1076, 1083], "delay": 60}
+		{"name": "fans21", "startTile": 1062, "tiles":[1062, 1069, 1076, 1083], "delay": 60},
+		{"name": "Toad1", "startTile": 323, "tiles":[323, 653], "delay": 6},
+		{"name": "Toad2", "startTile": 290, "tiles":[290, 620], "delay": 6}
     ]
 }
