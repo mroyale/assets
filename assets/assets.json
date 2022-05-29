@@ -249,7 +249,14 @@
 		{"id":223,"name":"Rex","coins":275},
 		{"id":224,"name":"Fashionable Mario","coins":200},
 		{"id":225,"name":"Galoomba","coins":100},
-		{"id":226,"name":"Mx","coins":999}
+		{"id":226,"name":"Mx","coins":999},
+		{"id":227,"name":"Space","coins":20},
+		{"id":228,"name":"Jevil","coins":350},
+		{"id":229,"name":"Bowser","coins":600},
+		{"id":230,"name":"Pyriel (Mobile)","coins":150},
+		{"id":231,"name":"Birdo","coins":200},
+		{"id":232,"name":"Peach (SMB2)","coins":300},
+		{"id":233,"name":"Toad (SMB2)","coins":300}
     ],
         
     "properties":[
