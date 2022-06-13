@@ -256,7 +256,13 @@
 		{"id":230,"name":"Pyriel (Mobile)","coins":150},
 		{"id":231,"name":"Birdo","coins":200},
 		{"id":232,"name":"Peach (SMB2)","coins":300},
-		{"id":233,"name":"Toad (SMB2)","coins":300}
+		{"id":233,"name":"Toad (SMB2)","coins":300},
+		{"id":234,"name":"Pac-Man (Arcade)","coins":300},
+		{"id":235,"name":"Buster Beetle","coins":200},
+		{"id":236,"name":"Mario (SMW Bootleg)","coins":450},
+		{"id":237,"name":"Mario (Special)","coins":100},
+		{"id":238,"name":"Pauline","coins":350},
+		{"id":239,"name":"Link (Zelda 2)","coins":350}
     ],
         
     "properties":[
