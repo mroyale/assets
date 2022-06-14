@@ -1,0 +1,14 @@
+{
+    "tileData":[
+        /*
+          id       // byte        :: Used in the editor to decide which data to use
+          name     // string      :: Unused, referenced to make editing easier
+          tileData // 32-bit int  :: Tile data to use once the specified action is completed
+        */
+
+        /*
+          flipData // 32-bit int  :: flipData specific, used to determine what tile data to use when starting the action.
+        */
+        {"id": 0, "name": "flipBlock", "tileData": 917602, "flipData": 90}
+    ]
+}
