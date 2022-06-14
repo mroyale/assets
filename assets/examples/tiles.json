@@ -1,0 +1,12 @@
+{
+    "tileAnim":[
+        /*
+          name      // string         :: Unused, referenced to make editing easier
+          startTile // 11-bit int     :: Sprite ID needed to start animating the tile
+          tiles     // Array<Integer> :: Sprites used for tile animations
+          delay     // 64-bit int     :: Frames to wait before switching to the next tile
+        */
+        {"name": "water", "startTile": 729, "tiles":[729, 740], "delay": 30},
+        {"name": "mysteryBox", "startTile": 24, "tiles":[24, 24, 24, 25, 26, 25], "delay": 4}
+    ]
+}
