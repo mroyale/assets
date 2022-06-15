@@ -36,6 +36,6 @@
 		{"name": "3_4", "startTile": 1123,  "tiles":[1123, 1125, 1127, 1129, 1127, 1125], "delay": 4},
 		{"name": "3_5", "startTile": 1155,  "tiles":[1155, 1157, 1159, 1161, 1159, 1157], "delay": 4},
 		{"name": "3_6", "startTile": 1156,  "tiles":[1156, 1158, 1160, 1162, 1160, 1158], "delay": 4},
-		{"name": "anniversBox", "startTile": 1097,  "tiles":[1097, 1097, 1097, 1098, 1099, 1098], "delay": 4},
+		{"name": "anniversBox", "startTile": 1097,  "tiles":[1097, 1097, 1097, 1098, 1099, 1098], "delay": 4}
     ]
 }
