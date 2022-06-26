@@ -30,6 +30,6 @@
 		{"name": "fans21", "startTile": 1062, "tiles":[1062, 1069, 1076, 1083], "delay": 60},
 		{"name": "Toad1", "startTile": 323, "tiles":[323, 653], "delay": 6},
 		{"name": "Toad2", "startTile": 290, "tiles":[290, 620], "delay": 6},
-		{"name": "AnnivBox", "startTile": 1051, "tiles":[1051, 1051, 1051, 1052, 1052, 1053], "delay": 4}
+		{"name": "AnnivBox", "startTile": 1051, "tiles":[1051, 1051, 1051, 1052, 1053, 1052], "delay": 4}
     ]
 }
