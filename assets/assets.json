@@ -260,7 +260,9 @@
 		{"id":238,"name":"Pauline","coins":350},
 		{"id":239,"name":"Link","coins":350},
 		{"id":240,"name":"Mario (Atari 2600)","coins":250},
-		{"id":241,"name":"3 Year Anniversary!","coins":333}
+		{"id":241,"name":"3 Year Anniversary!","coins":333},
+		{"id":242,"name":"Tricorn Toad","coins":450},
+		{"id":243,"name":"Brelanne","coins":300}
     ],
         
     "properties":[
