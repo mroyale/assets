@@ -53,7 +53,6 @@
 		{"id":26,"name":"Dorkly Mario","coins":350},
 		{"id":27,"name":"Dorkly Luigi","coins":350},
 		{"id":28,"name":"Club Penguin","coins":450},
-		{"id":29,"name":"Tux","coins":300},
 		{"id":30,"name":"Spinning Blade","coins":100},
 		{"id":31,"name":"Red","coins":50},
 		{"id":134,"name":"Chuck","coins":50},
@@ -261,7 +260,9 @@
 		{"id":238,"name":"Pauline","coins":350},
 		{"id":239,"name":"Link","coins":350},
 		{"id":240,"name":"Mario (Atari 2600)","coins":250},
-		{"id":241,"name":"3 Year Anniversary!","coins":333}
+		{"id":241,"name":"3 Year Anniversary!","coins":333},
+		{"id":242,"name":"Tricorn Toad","coins":450},
+		{"id":243,"name":"Brelanne","coins":300}
     ],
         
     "properties":[

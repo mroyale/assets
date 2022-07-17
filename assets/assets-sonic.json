@@ -1,0 +1,8 @@
+{
+    "tileData":[
+        {"name": "flipBlock", "tileData":1233333}
+    ],
+    "tileAnim":[
+		{"name": "flipBlock", "startTile": 25,  "tiles":[25, 26], "delay": 3}
+    ]
+}
