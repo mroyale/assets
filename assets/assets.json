@@ -262,13 +262,24 @@
 		{"id":240,"name":"Mario (Atari 2600)","coins":250},
 		{"id":241,"name":"3 Year Anniversary!","coins":333},
 		{"id":242,"name":"Tricorn Toad","coins":450},
-		{"id":243,"name":"Brelanne","coins":300}
+		{"id":243,"name":"Brelanne","coins":300},
+		{"id":244,"name":"Fishy Frigate Toad","coins":450},
+		{"id":245,"name":"Pirate Brelanne","coins":300},
+		{"id":246,"name":"Tick","coins":250},
+		{"id":247,"name":"True Silver Tick","coins":10000},
+		{"id":248,"name":"True Gold Tick","coins":25000},
+		{"id":249,"name":"8-Bit","coins":350},
+		{"id":250,"name":"Evil 8-Bit","coins":350},
+		{"id":251,"name":"Jacky","coins":150},
+		{"id":252,"name":"Constructor Jacky","coins":150}
     ],
         
     "properties":[
         {"id": 6,   "music": "https://raw.githubusercontent.com/mroyale/assets/master/audio/skins/fnf_toadette.mp3"},
 		{"id": 60,	"music": "https://raw.githubusercontent.com/mroyale/assets/master/audio/skins/yoshi.mp3"},
-		{"id": 70,	"music": "https://raw.githubusercontent.com/mroyale/assets/master/audio/skins/yoshi.mp3"}
+		{"id": 70,	"music": "https://raw.githubusercontent.com/mroyale/assets/master/audio/skins/yoshi.mp3"},
+	    	{"id": 249,	"music": "https://raw.githubusercontent.com/mroyale/assets/master/audio/skins/8bit.mp3"},
+		{"id": 250,	"music": "https://raw.githubusercontent.com/mroyale/assets/master/audio/skins/8bit_evil.mp3"}
     ]
     }
 }
