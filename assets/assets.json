@@ -271,7 +271,27 @@
 		{"id":249,"name":"8-Bit","coins":350},
 		{"id":250,"name":"Evil 8-Bit","coins":350},
 		{"id":251,"name":"Jacky","coins":150},
-		{"id":252,"name":"Constructor Jacky","coins":150}
+		{"id":252,"name":"Constructor Jacky","coins":150},
+		{"id":253,"name":"Jim","coins":300},
+		{"id":254,"name":"Mario (Mario Bros. Classic)","coins":200},
+		{"id":255,"name":"Mr. E","coins":150},
+		{"id":256,"name":"Mr. 3","coins":150},
+		{"id":257,"name":"Alex Studios","coins":350},
+		{"id":258,"name":"Mario Convertible","coins":250},
+		{"id":259,"name":"Hammer Bro","coins":300},
+		{"id":260,"name":"Fries","coins":350},
+		{"id":261,"name":"Nate","coins":350},
+		{"id":262,"name":"Quantum","coins":351},
+		{"id":263,"name":"Sean (Downtime)","coins":300},
+		{"id":264,"name":"LUCAS!","coins":699},
+		{"id":265,"name":"Weird Mario","coins":250},
+		{"id":266,"name":"Luigi (I Hate You)","coins":500},
+		{"id":267,"name":"Boomboxer","coins":300},
+		{"id":268,"name":"Marshian","coins":300},
+		{"id":269,"name":"Strawberry Cookie","coins":300},
+		{"id":270,"name":"Lollipop","coins":300},
+		{"id":271,"name":"Gappy","coins":300}
+		
     ],
         
     "properties":[
