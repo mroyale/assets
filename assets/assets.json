@@ -110,6 +110,9 @@
 	],
 
 	"properties": [{
+			"id": 7,
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/master/audio/skins/dmca/"
+		}, {
 			"id": 6,
 			"music": "https://raw.githubusercontent.com/mroyale/assets/master/audio/skins/fnf_toadette.mp3"
 		},
