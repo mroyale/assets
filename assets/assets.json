@@ -131,6 +131,10 @@
 		{
 			"id": 250,
 			"music": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/8bit_evil.mp3"
+		},
+		{
+			"id": 279,
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/pt/"
 		}
 	]
 }
