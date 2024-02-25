@@ -1,0 +1,8 @@
+{
+    "tileAnim":[
+        {"name": "lava", "startTile": 557, "tiles":[557, 558, 559, 760], "delay": 19},
+        {"name": "mysteryBox", "startTile": 24,  "tiles":[24, 24, 24, 25, 26, 25], "delay": 4},
+        {"name": "starBox", "startTile": 90,  "tiles":[90, 90, 90, 91, 92, 91], "delay": 4},
+    ]
+    }
+}
