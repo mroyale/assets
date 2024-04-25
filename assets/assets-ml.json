@@ -8,6 +8,6 @@
         {"name": "waterDance", "startTile": 189, "tiles":[189, 190, 191, 190], "delay": 6},
         {"name": "octopus", "startTile": 222, "tiles":[222, 222, 223, 223, 224], "delay": 5},
         {"name": "octopus2", "startTile": 255, "tiles":[255, 255, 256, 256, 257], "delay": 5},
-        {"name": "waterfall", "startTile": 288, "tiles":[288, 289], "delay": 2}
+        {"name": "waterfall", "startTile": 288, "tiles":[288, 289], "delay": 4}
     ]
 }
