@@ -28,6 +28,6 @@
         {"name": "mysteryBoxTeal2", "startTile": 499,  "tiles":[499, 499, 499, 500, 501, 502], "delay": 4},
 
         {"name": "mysteryBoxTeal", "startTile": 504,  "tiles":[504, 504, 504, 505, 506, 507], "delay": 4},
-        {"name": "mysteryBoxTeal2", "startTile": 508,  "tiles":[508, 508, 508, 509, 510, 511], "delay": 4},
+        {"name": "mysteryBoxTeal2", "startTile": 508,  "tiles":[508, 508, 508, 509, 510, 511], "delay": 4}
     ]
 }
