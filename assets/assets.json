@@ -141,6 +141,10 @@
 			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/sugary/"
 		},
 		{
+			"id": 305,
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/party/"
+		},
+		{
 			"id": 309,
 			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/smrpg/"
 		}
