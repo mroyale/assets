@@ -1,0 +1,27 @@
+{
+    "tileAnim":[
+        {"name": "mysteryBox", "startTile": 24,  "tiles":[24, 24, 24, 25, 26, 25], "delay": 8},
+
+		{"name": "screenTL", "startTile": 96,  "tiles":[96, 96, 96, 330, 333, 330], "delay": 8},
+		{"name": "screenTM", "startTile": 97,  "tiles":[97, 97, 97, 331, 334, 331], "delay": 8},
+		{"name": "screenTR", "startTile": 98,  "tiles":[98, 98, 98, 332, 335, 332], "delay": 8},
+		{"name": "screenDL", "startTile": 129,  "tiles":[129, 129, 129, 363, 366, 363], "delay": 8},
+		{"name": "screenDM", "startTile": 130,  "tiles":[130, 130, 130, 364, 367, 364], "delay": 8},
+		{"name": "screenDR", "startTile": 131,  "tiles":[131, 131, 131, 365, 368, 365], "delay": 8},
+
+        {"name": "blueTubeTop", "startTile": 315,  "tiles":[315, 316, 317, 316], "delay": 8},
+        {"name": "redTubeTop", "startTile": 318,  "tiles":[318, 319, 320, 319], "delay": 8},
+        {"name": "whiteTubeTop", "startTile": 321,  "tiles":[321, 322, 323, 322], "delay": 8},
+        {"name": "blueTubeBody", "startTile": 348,  "tiles":[348, 349, 350, 349], "delay": 8},
+        {"name": "redTubeBody", "startTile": 351,  "tiles":[351, 352, 353, 352], "delay": 8},
+        {"name": "whiteTubeBody", "startTile": 354,  "tiles":[354, 355, 356, 355], "delay": 8},
+
+        {"name": "thinTubesTop", "startTile": 324,  "tiles":[324, 325, 326, 325], "delay": 8},
+        {"name": "thinTubesBody", "startTile": 354,  "tiles":[354, 355, 356, 355], "delay": 8},
+
+        {"name": "solidBlockGlow", "startTile": 327,  "tiles":[327, 327, 327, 328, 329, 328], "delay": 8},
+        {"name": "brickBlockGlow", "startTile": 360,  "tiles":[360, 360, 360, 361, 362, 361], "delay": 8},
+
+        {"name": "airedFloor", "startTile": 262,  "tiles":[262, 262, 263, 262], "delay": 8}
+    ]
+}
