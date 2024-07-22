@@ -2,16 +2,16 @@
 	"tileAnim":[
 		{"name": "water", "startTile": 264, "tiles":[264, 266, 268, 270, 297, 299, 301, 303], "delay": 2},
 		{"name": "water", "startTile": 265, "tiles":[265, 267, 269, 271, 298, 300, 302, 304], "delay": 2},
-		{"name": "water", "startTile": 103, "tiles":[103, 104, 105, 106, 107, 108, 109, 110], "delay": 5},
-		{"name": "lava", "startTile": 112,  "tiles":[112, 113, 114, 115, 116, 117, 118, 119], "delay": 10},
+		{"name": "water", "startTile": 103, "tiles":[103, 104, 105, 106, 107, 108, 109, 110], "delay": 2},
+		{"name": "lava", "startTile": 112,  "tiles":[112, 113, 114, 115, 116, 117, 118, 119], "delay": 2},
 		{"name": "mysteryBox", "startTile": 24,  "tiles":[24, 24, 24, 25, 26, 25], "delay": 8},
 		{"name": "goalMilestone", "startTile": 180,  "tiles":[180, 181, 182], "delay": 4},
-		{"name": "bush", "startTile": 37,  "tiles":[37, 40, 43, 40], "delay": 16},
-		{"name": "bush", "startTile": 38,  "tiles":[38, 41, 44, 41], "delay": 16},
-		{"name": "bush", "startTile": 39,  "tiles":[39, 42, 45, 42], "delay": 16},
-		{"name": "cloud", "startTile": 355,  "tiles":[355, 357, 359, 357], "delay": 16},
-		{"name": "cloud", "startTile": 356,  "tiles":[356, 358, 360, 358], "delay": 16},
-		{"name": "cloud", "startTile": 388,  "tiles":[388, 390, 392, 390], "delay": 16},
-		{"name": "cloud", "startTile": 389,  "tiles":[389, 391, 393, 391], "delay": 16}
+		{"name": "bush", "startTile": 37,  "tiles":[37, 40, 43, 40], "delay": 8},
+		{"name": "bush", "startTile": 38,  "tiles":[38, 41, 44, 41], "delay": 8},
+		{"name": "bush", "startTile": 39,  "tiles":[39, 42, 45, 42], "delay": 8},
+		{"name": "cloud", "startTile": 355,  "tiles":[355, 357, 359, 357], "delay": 8},
+		{"name": "cloud", "startTile": 356,  "tiles":[356, 358, 360, 358], "delay": 8},
+		{"name": "cloud", "startTile": 388,  "tiles":[388, 390, 392, 390], "delay": 8},
+		{"name": "cloud", "startTile": 389,  "tiles":[389, 391, 393, 391], "delay": 8}
 	]
 }
