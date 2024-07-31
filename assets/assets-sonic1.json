@@ -10,6 +10,6 @@
 		{"name": "eggman", "startTile": 330, "tiles":[330, 332], "delay": 5},
 		{"name": "eggman", "startTile": 331, "tiles":[331, 333], "delay": 5},
 		{"name": "eggman", "startTile": 363, "tiles":[363, 365], "delay": 5},
-		{"name": "eggman", "startTile": 364, "tiles":[364, 366], "delay": 5},
-   	 ],
+		{"name": "eggman", "startTile": 364, "tiles":[364, 366], "delay": 5}
+   	 ]
 }
