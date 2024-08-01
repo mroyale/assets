@@ -3,7 +3,7 @@
 		{"name": "water", "startTile": 264, "tiles":[264, 266, 268, 270, 297, 299, 301, 303], "delay": 2},
 		{"name": "water", "startTile": 265, "tiles":[265, 267, 269, 271, 298, 300, 302, 304], "delay": 2},
 		{"name": "water", "startTile": 103, "tiles":[103, 104, 105, 106, 107, 108, 109, 110], "delay": 2},
-		{"name": "lava", "startTile": 112,  "tiles":[112, 113, 114, 115, 116, 117, 118, 119], "delay": 2},
+		{"name": "lava", "startTile": 112,  "tiles":[112, 113, 114, 115, 116, 117, 118, 119], "delay": 3},
 		{"name": "mysteryBox", "startTile": 24,  "tiles":[24, 24, 24, 25, 26, 25], "delay": 8},
 		{"name": "goalMilestone", "startTile": 180,  "tiles":[180, 181, 182], "delay": 4},
 		{"name": "bush", "startTile": 37,  "tiles":[37, 40, 43, 40], "delay": 8},
