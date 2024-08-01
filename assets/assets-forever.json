@@ -13,5 +13,8 @@
 		{"name": "cloud", "startTile": 356,  "tiles":[356, 358, 360, 358], "delay": 8},
 		{"name": "cloud", "startTile": 388,  "tiles":[388, 390, 392, 390], "delay": 8},
 		{"name": "cloud", "startTile": 389,  "tiles":[389, 391, 393, 391], "delay": 8}
+		{"name": "podium1", "startTile": 173,  "tiles":[176, 173, 173, 173], "delay": 1},
+		{"name": "podium2", "startTile": 174,  "tiles":[174, 177, 174, 177], "delay": 1},
+		{"name": "podium3", "startTile": 175,  "tiles":[175, 175, 178, 175], "delay": 1}
 	]
 }
