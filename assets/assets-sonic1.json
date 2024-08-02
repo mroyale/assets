@@ -12,9 +12,19 @@
 		{"name": "eggman", "startTile": 363, "tiles":[363, 365], "delay": 5},
 		{"name": "eggman", "startTile": 364, "tiles":[364, 366], "delay": 5},
 		{"name": "cobduit", "startTile": 306, "tiles":[306, 307], "delay": 5},
-		{"name": "spark", "startTile": 308, "tiles":[308, 310], "delay": 5},
-		{"name": "spark", "startTile": 309, "tiles":[309, 311], "delay": 5},
-		{"name": "spark", "startTile": 312, "tiles":[312, 314], "delay": 5},
-		{"name": "spark", "startTile": 309, "tiles":[313, 315], "delay": 5}
+		{"name": "spark", "startTile": 308, "tiles":[308, 310], "delay": 3},
+		{"name": "spark", "startTile": 309, "tiles":[309, 311], "delay": 3},
+		{"name": "spark", "startTile": 312, "tiles":[312, 314], "delay": 3},
+		{"name": "spark", "startTile": 313, "tiles":[313, 315], "delay": 3},
+		{"name": "sawblade1", "startTile": 335, "tiles":[335, 338], "delay": 3},
+		{"name": "sawblade1", "startTile": 336, "tiles":[336, 339], "delay": 3},
+		{"name": "sawblade1", "startTile": 337, "tiles":[337, 340], "delay": 3},
+		{"name": "sawblade2", "startTile": 341, "tiles":[341, 344], "delay": 3},
+		{"name": "sawblade2", "startTile": 342, "tiles":[342, 345], "delay": 3},
+		{"name": "sawblade2", "startTile": 343, "tiles":[343, 346], "delay": 3},
+		{"name": "sawblade3", "startTile": 347, "tiles":[347, 350], "delay": 3},
+		{"name": "sawblade3", "startTile": 348, "tiles":[348, 351], "delay": 3},
+		{"name": "sawblade3", "startTile": 349, "tiles":[349, 352], "delay": 3}
    	 ]
 }
+
