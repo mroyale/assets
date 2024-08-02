@@ -10,6 +10,11 @@
 		{"name": "eggman", "startTile": 330, "tiles":[330, 332], "delay": 5},
 		{"name": "eggman", "startTile": 331, "tiles":[331, 333], "delay": 5},
 		{"name": "eggman", "startTile": 363, "tiles":[363, 365], "delay": 5},
-		{"name": "eggman", "startTile": 364, "tiles":[364, 366], "delay": 5}
+		{"name": "eggman", "startTile": 364, "tiles":[364, 366], "delay": 5},
+		{"name": "cobduit", "startTile": 306, "tiles":[306, 307], "delay": 5},
+		{"name": "spark", "startTile": 308, "tiles":[308, 310], "delay": 5},
+		{"name": "spark", "startTile": 309, "tiles":[309, 311], "delay": 5},
+		{"name": "spark", "startTile": 312, "tiles":[312, 314], "delay": 5},
+		{"name": "spark", "startTile": 309, "tiles":[313, 315], "delay": 5}
    	 ]
 }
