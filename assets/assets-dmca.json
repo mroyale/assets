@@ -1,6 +1,6 @@
 {
     "tileData": [
-        {"id": 0, "name": "bumpedBlock", "itemBlockSprite": 57, "bumpedSprite": 60}
+        {"id": 0, "name": "bumpedBlock", "type": "bumpBlock", "itemBlockSprite": 57, "bumpedSprite": 60}
     ],
 
 	"tileAnim": [{
