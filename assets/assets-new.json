@@ -1,6 +1,6 @@
 {
     "tileData":[
-        {"id": 0, "name": "flipBlock", "tileData": 917529, "flipData": 24}
+        {"id": 0, "name": "flipBlock", "type": "flipBlock", "tileData": 917529, "flipData": 24}
     ],
     "tileAnim":[
         {"name": "water", "startTile": 491, "tiles":[491, 492, 493, 494], "delay": 5},

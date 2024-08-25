@@ -3,12 +3,23 @@
         /*
           id       // byte        :: Used in the editor to decide which data to use
           name     // string      :: Unused, referenced to make editing easier
+          type     // string      :: Either flipBlock or bumpBlock. Explanations for both underneath.
+          */
+          
+          /*
+          This is how to use flip blocks.
+          
+          flipData // 32-bit int  :: flipData specific, used to determine what tile data to use when starting the action.
           tileData // 32-bit int  :: Tile data to use once the specified action is completed
         */
+        {"id": 0, "name": "flipBlock", "tileData": 917602, "flipData": 90},
 
         /*
-          flipData // 32-bit int  :: flipData specific, used to determine what tile data to use when starting the action.
+          This is how to use a custom sprite when your item block has been bumped.
+
+          itemBlockSprite // 32-bit int  :: When an item block is bumped, it will check the sprite index of the tile, to know its supposed to be replaced
+          bumpedSprite    // 32-bit int  :: This is the sprite that will be used instead of the default one when the tile is bumped
         */
-        {"id": 0, "name": "flipBlock", "tileData": 917602, "flipData": 90}
+        {"id": 1, "name": "bumpBlock", "itemBlockSprite": 57, "bumpedSprite": 60}
     ]
 }
