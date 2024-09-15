@@ -8,10 +8,10 @@
         {"name": "waterDance", "startTile": 189, "tiles":[189, 190, 191, 190], "delay": 6},
         {"name": "octopus", "startTile": 222, "tiles":[222, 222, 223, 223, 224], "delay": 5},
         {"name": "octopus2", "startTile": 255, "tiles":[255, 255, 256, 256, 257], "delay": 5},
-        {"name": "waterfall", "startTile": 288, "tiles":[288, 289], "delay": 6},
-        {"name": "SnakeTopLeft",     "startTile": 93, "tiles":[159, 159, 159, 159, 159, 93, 93, 93, 93, 93, 93, 93, 93, 93, 93], "delay": 10},
-        {"name": "SnakeTopRight",    "startTile": 94, "tiles":[160, 160, 160, 160, 160, 94, 94, 94, 94, 94, 94, 94, 94, 94, 94], "delay": 10},
-        {"name": "SnakeBottomLeft",  "startTile": 126, "tiles":[192, 192, 192, 192, 192, 126, 126, 126, 126, 126, 126, 126, 126, 126, 126], "delay": 10},
-        {"name": "SnakeBottomRight", "startTile": 127, "tiles":[193, 193, 193, 193, 193, 127, 127, 127, 127, 127, 127, 127, 127, 127, 127], "delay": 10}
+        {"name": "waterfall", "startTile": 288, "tiles":[288, 289], "delay": 10},
+        {"name": "SnakeTopLeft",     "startTile": 93, "tiles":[159, 93, 93], "delay": 50},
+        {"name": "SnakeTopRight",    "startTile": 94, "tiles":[160, 94, 94], "delay": 50},
+        {"name": "SnakeBottomLeft",  "startTile": 126, "tiles":[192, 126, 126], "delay": 50},
+        {"name": "SnakeBottomRight", "startTile": 127, "tiles":[193, 127, 127], "delay": 50}
     ]
 }
