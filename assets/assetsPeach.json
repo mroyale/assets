@@ -104,8 +104,80 @@
 		{
 			"name": "flipBlock",
 			"startTile": 685,
-			"tiles": [684, 685, 686, 687],
+			"tiles": [685, 686, 687, 684],
 			"delay": 4
+		},
+		{
+			"name": "terminal",
+			"startTile": 760,
+			"tiles": [760, 262],
+			"delay": 3
+		},
+		{
+			"name": "TV",
+			"startTile": 693,
+			"tiles": [693, 695],
+			"delay": 3
+		},
+		{
+			"name": "TV",
+			"startTile": 694,
+			"tiles": [694, 696],
+			"delay": 3
+		},
+		{
+			"name": "TV",
+			"startTile": 726,
+			"tiles": [726, 728],
+			"delay": 3
+		},
+		{
+			"name": "TV",
+			"startTile": 727,
+			"tiles": [697, 699],
+			"delay": 3
+		},
+		{
+			"name": "terminal",
+			"startTile": 759,
+			"tiles": [759, 261],
+			"delay": 3
+		},
+		{
+			"name": "terminal",
+			"startTile": 793,
+			"tiles": [793, 795],
+			"delay": 3
+		},
+		{
+			"name": "casini",
+			"startTile": 797,
+			"tiles": [797, 799],
+			"delay": 3
+		},
+		{
+			"name": "Retra",
+			"startTile": 672,
+			"tiles": [672, 674],
+			"delay": 3
+		},
+		{
+			"name": "Retra",
+			"startTile": 673,
+			"tiles": [673, 675],
+			"delay": 3
+		},
+		{
+			"name": "Retra",
+			"startTile": 705,
+			"tiles": [705, 707],
+			"delay": 3
+		},
+		{
+			"name": "Retra",
+			"startTile": 706,
+			"tiles": [706, 708],
+			"delay": 3
 		}
 	]
 
