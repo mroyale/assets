@@ -285,7 +285,7 @@
 			"name": "mario",
 			"startTile": 831,
 			"tiles": [831, 831, 831, 833],
-			"delay": 15
+			"delay": 25
 		},
 		{
 			"name": "mario",
