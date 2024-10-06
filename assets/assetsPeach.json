@@ -165,7 +165,7 @@
 			"name": "Retra",
 			"startTile": 673,
 			"tiles": [673, 675],
-			"delay": 7
+			"delay": 6
 		},
 		{
 			"name": "Retra",
