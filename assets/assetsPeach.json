@@ -260,7 +260,7 @@
 		{
 			"name": "vie",
 			"startTile": 802,
-			"tiles": [802, 803],
+			"tiles": [802, 805],
 			"delay": 7
 		}
 	]
