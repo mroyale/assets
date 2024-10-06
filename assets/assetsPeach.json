@@ -108,39 +108,39 @@
 			"delay": 4
 		},
 		{
-			"name": "terminal",
-			"startTile": 760,
-			"tiles": [760, 262],
-			"delay": 3
-		},
-		{
 			"name": "TV",
 			"startTile": 693,
 			"tiles": [693, 695],
-			"delay": 3
+			"delay": 20
 		},
 		{
 			"name": "TV",
 			"startTile": 694,
 			"tiles": [694, 696],
-			"delay": 3
+			"delay": 20
 		},
 		{
 			"name": "TV",
 			"startTile": 726,
 			"tiles": [726, 728],
-			"delay": 3
+			"delay": 20
 		},
 		{
 			"name": "TV",
 			"startTile": 727,
-			"tiles": [697, 699],
-			"delay": 3
+			"tiles": [727, 729],
+			"delay": 20
+		},
+		{
+			"name": "terminal",
+			"startTile": 760,
+			"tiles": [760, 762],
+			"delay": 5
 		},
 		{
 			"name": "terminal",
 			"startTile": 759,
-			"tiles": [759, 261],
+			"tiles": [759, 761],
 			"delay": 3
 		},
 		{
