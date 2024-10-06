@@ -104,7 +104,7 @@
 		{
 			"name": "flipBlock",
 			"startTile": 255,
-			"tiles": [685, 686, 687, 684],
+			"tiles": [255, 685, 686, 687],
 			"delay": 4
 		},
 		{
@@ -178,6 +178,48 @@
 			"startTile": 706,
 			"tiles": [706, 708],
 			"delay": 7
+		},
+		{
+			"name": "cratos",
+			"startTile": 828,
+			"tiles": [828, 825],
+			"delay": 7
+		},
+		{
+			"name": "cratos",
+			"startTile": 829,
+			"tiles": [829, 826],
+			"delay": 7
+		},
+		{
+			"name": "cratos",
+			"startTile": 830,
+			"tiles": [830, 827],
+			"delay": 7
+		},
+		{
+			"name": "cratos",
+			"startTile": 861,
+			"tiles": [861, 858],
+			"delay": 7
+		},
+		{
+			"name": "cratos",
+			"startTile": 862,
+			"tiles": [862, 859],
+			"delay": 7
+		},
+		{
+			"name": "cratos",
+			"startTile": 863,
+			"tiles": [863, 860],
+			"delay": 7
+		},
+		{
+			"name": "daviddoodles",
+			"startTile": 734,
+			"tiles": [734, 734, 734, 734, 733, 734, 734, 734, 733, 734, 734, 734, 734, 734, 733, 734, 733],
+			"delay": 3
 		}
 	]
 
