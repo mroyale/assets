@@ -1,32 +1,26 @@
 {
 	"tileAnim": [{
 			"name": "water",
-			"startTile": 729,
-			"tiles": [729, 740],
-			"delay": 19
+			"startTile": 491,
+			"tiles": [491, 492, 493, 494],
+			"delay": 5
 		},
 		{
 			"name": "water",
-			"startTile": 795,
-			"tiles": [795, 806],
-			"delay": 19
+			"startTile": 557,
+			"tiles": [557, 558, 559, 560],
+			"delay": 5
 		},
 		{
 			"name": "water",
 			"startTile": 861,
 			"tiles": [861, 872],
-			"delay": 19
+			"delay": 5
 		},
 		{
 			"name": "water",
-			"startTile": 872,
-			"tiles": [872, 861],
-			"delay": 19
-		},
-		{
-			"name": "water",
-			"startTile": 1257,
-			"tiles": [1257, 1268],
+			"startTile": 623,
+			"tiles": [623, 624, 625, 626],
 			"delay": 20
 		},
 		{
@@ -297,6 +291,36 @@
 			"name": "mario",
 			"startTile": 865,
 			"tiles": [865, 865, 865, 867],
+			"delay": 25
+		},
+		{
+			"name": "clippy",
+			"startTile": 868,
+			"tiles": [868, 870],
+			"delay": 25
+		},
+		{
+			"name": "katt",
+			"startTile": 874,
+			"tiles": [874, 876, 878, 880],
+			"delay": 25
+		},
+		{
+			"name": "katt",
+			"startTile": 875,
+			"tiles": [875, 877, 879, 881],
+			"delay": 25
+		},
+		{
+			"name": "katt",
+			"startTile": 907,
+			"tiles": [907, 909, 911, 913],
+			"delay": 25
+		},
+		{
+			"name": "katt",
+			"startTile": 908,
+			"tiles": [908, 910, 912, 914],
 			"delay": 25
 		}
 	]
