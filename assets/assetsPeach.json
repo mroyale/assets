@@ -291,25 +291,25 @@
 			"name": "katt",
 			"startTile": 874,
 			"tiles": [874, 876, 878, 880],
-			"delay": 5
+			"delay": 7
 		},
 		{
 			"name": "katt",
 			"startTile": 875,
 			"tiles": [875, 877, 879, 881],
-			"delay": 5
+			"delay": 7
 		},
 		{
 			"name": "katt",
 			"startTile": 907,
 			"tiles": [907, 909, 911, 913],
-			"delay": 5
+			"delay": 7
 		},
 		{
 			"name": "katt",
 			"startTile": 908,
 			"tiles": [908, 910, 912, 914],
-			"delay": 5
+			"delay": 7
 		}
 	]
 
