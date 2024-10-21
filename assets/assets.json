@@ -150,11 +150,11 @@
 		},
 		{
 			"id": 280,
-			"sfx": "https://raw.githubusercontent.com/mroyale/assets/tree/legacy/audio/skins/retra/"
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/retra/"
 		},
 		{
 			"id": 289,
-			"sfx": "https://raw.githubusercontent.com/mroyale/assets/tree/legacy/audio/skins/retra/"
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/retra/"
 		}
 	]
 }
