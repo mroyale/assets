@@ -147,6 +147,14 @@
 		{
 			"id": 309,
 			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/smrpg/"
+		},
+		{
+			"id": 280,
+			"sfx": "https://github.com/mroyale/assets/tree/legacy/audio/skins/retra"
+		},
+		{
+			"id": 289,
+			"sfx": "https://github.com/mroyale/assets/tree/legacy/audio/skins/retra"
 		}
 	]
 }
