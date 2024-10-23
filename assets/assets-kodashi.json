@@ -1,0 +1,50 @@
+{
+	"tileAnim":[
+		{"name": "water", "startTile": 396,
+		"tiles":[396, 398, 400, 402, 404, 406, 408, 410], "delay": 5},
+		{"name": "water", "startTile": 397,
+		"tiles":[397, 399, 401, 403, 405, 407, 409, 413], "delay": 5},
+
+		{"name": "retaw", "startTile": 429,
+		"tiles":[429, 431, 433, 435, 437, 439, 441, 443], "delay": 5},
+		{"name": "retaw", "startTile": 430,
+		"tiles":[430, 432, 434, 436, 438, 440, 442, 446], "delay": 5},
+		
+		{"name": "mysteryBox", "startTile": 24,
+		"tiles":[24, 24, 24, 25, 26, 25], "delay": 8},
+
+		{"name": "warpBox", "startTile": 363,
+		"tiles":[363, 363, 363, 364, 365, 364], "delay": 8},
+
+
+
+		{"name": "cannonL", "startTile": 394,
+		"tiles":[394, 424, 424, 425, 425, 424, 424,
+				394, 457, 457, 458, 458, 457, 457], "delay": 8},
+		{"name": "cannonR", "startTile": 395,
+		"tiles":[395, 426, 426, 427, 427, 426, 426,
+				395, 459, 459, 460, 460, 459, 459], "delay": 8},
+		{"name": "cannonU", "startTile": 428,
+		"tiles":[30, 30, 30, 30, 30, 30, 30,
+				30, 421, 421, 422, 422, 421, 421], "delay": 8},
+		{"name": "cannonD", "startTile": 461,
+		"tiles":[30, 454, 454, 455, 455, 454, 454,
+				30, 30, 30, 30, 30, 30, 30], "delay": 8},
+		{"name": "cannonDU", "startTile": 448,
+		"tiles":[30, 454, 454, 455, 455, 454, 454,
+				30, 421, 421, 422, 422, 421, 421], "delay": 8},
+
+		{"name": "FF", "startTile": 189,
+		"tiles":[189, 189, 189, 190, 191, 190], "delay": 8},
+		{"name": "FE", "startTile": 90,
+		"tiles":[90, 90, 90, 91, 92, 91], "delay": 8},
+		{"name": "FD", "startTile": 156,
+		"tiles":[156, 156, 156, 157, 158, 157], "delay": 8},
+		{"name": "FC", "startTile": 222,
+		"tiles":[222, 222, 222, 223, 224, 223], "delay": 8},
+		{"name": "FB", "startTile": 288,
+		"tiles":[288, 288, 288, 289, 290, 289], "delay": 8},
+		{"name": "FA", "startTile": 65,
+		"tiles":[65, 197], "delay": 50}
+	]
+}
