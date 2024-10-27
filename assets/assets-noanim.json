@@ -1,6 +1,6 @@
 {
     "tileData":[
-        {"id": 0, "name": "flipBlock", "type": "flipBlock", "tileData":1233333}
+        {"name": "flipBlock", "tileData":1233333}
     ],
     "tileAnim":[
     ]
