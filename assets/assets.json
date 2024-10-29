@@ -159,6 +159,14 @@
 		{
 			"id": 198,
 			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/allstars/"
+		},
+		{
+			"id": 90,
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/engineer/"
+		},
+		{
+			"id": 91,
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/engineer/"
 		}
 	]
 }
