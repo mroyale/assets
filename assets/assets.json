@@ -167,6 +167,14 @@
 		{
 			"id": 91,
 			"sfx": "https://raw.githubusercontent.com/mroyale/assets/v7/audio/skins/engineer/"
+		},
+		{
+			"id": 209,
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/noise/"
+		},
+		{
+			"id": 341,
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/noise/"
 		}
 	]
 }
