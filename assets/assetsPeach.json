@@ -1,39 +1,21 @@
 {
 	"tileAnim": [{
 			"name": "water",
-			"startTile": 729,
-			"tiles": [729, 740],
-			"delay": 19
+			"startTile": 491,
+			"tiles": [491, 492, 493, 494],
+			"delay": 5
 		},
 		{
 			"name": "water",
-			"startTile": 795,
-			"tiles": [795, 806],
-			"delay": 19
+			"startTile": 557,
+			"tiles": [557, 558, 559, 560],
+			"delay": 5
 		},
 		{
 			"name": "water",
-			"startTile": 861,
-			"tiles": [861, 872],
-			"delay": 19
-		},
-		{
-			"name": "water",
-			"startTile": 872,
-			"tiles": [872, 861],
-			"delay": 19
-		},
-		{
-			"name": "water",
-			"startTile": 1257,
-			"tiles": [1257, 1268],
-			"delay": 20
-		},
-		{
-			"name": "water",
-			"startTile": 1272,
-			"tiles": [1272, 1283],
-			"delay": 20
+			"startTile": 623,
+			"tiles": [623, 624, 625, 626],
+			"delay": 5
 		},
 		{
 			"name": "water",
@@ -103,81 +85,279 @@
 		},
 		{
 			"name": "flipBlock",
-			"startTile": 685,
-			"tiles": [685, 686, 687, 684],
+			"startTile": 255,
+			"tiles": [255, 685, 686, 687],
 			"delay": 4
-		},
-		{
-			"name": "terminal",
-			"startTile": 760,
-			"tiles": [760, 262],
-			"delay": 3
 		},
 		{
 			"name": "TV",
 			"startTile": 693,
 			"tiles": [693, 695],
-			"delay": 3
+			"delay": 7
 		},
 		{
 			"name": "TV",
 			"startTile": 694,
 			"tiles": [694, 696],
-			"delay": 3
+			"delay": 7
 		},
 		{
 			"name": "TV",
 			"startTile": 726,
 			"tiles": [726, 728],
-			"delay": 3
+			"delay": 7
 		},
 		{
 			"name": "TV",
 			"startTile": 727,
-			"tiles": [697, 699],
-			"delay": 3
+			"tiles": [727, 729],
+			"delay": 7
+		},
+		{
+			"name": "terminal",
+			"startTile": 760,
+			"tiles": [760, 762],
+			"delay": 15
 		},
 		{
 			"name": "terminal",
 			"startTile": 759,
-			"tiles": [759, 261],
-			"delay": 3
+			"tiles": [759, 761],
+			"delay": 15
 		},
 		{
 			"name": "terminal",
 			"startTile": 793,
 			"tiles": [793, 795],
-			"delay": 3
+			"delay": 15
 		},
 		{
 			"name": "casini",
 			"startTile": 797,
 			"tiles": [797, 799],
-			"delay": 3
+			"delay": 10
 		},
 		{
 			"name": "Retra",
 			"startTile": 672,
 			"tiles": [672, 674],
-			"delay": 3
+			"delay": 6
 		},
 		{
 			"name": "Retra",
 			"startTile": 673,
 			"tiles": [673, 675],
-			"delay": 3
+			"delay": 6
 		},
 		{
 			"name": "Retra",
 			"startTile": 705,
 			"tiles": [705, 707],
-			"delay": 3
+			"delay": 6
 		},
 		{
 			"name": "Retra",
 			"startTile": 706,
 			"tiles": [706, 708],
+			"delay": 6
+		},
+		{
+			"name": "cratos",
+			"startTile": 828,
+			"tiles": [828, 825],
+			"delay": 7
+		},
+		{
+			"name": "cratos",
+			"startTile": 829,
+			"tiles": [829, 826],
+			"delay": 7
+		},
+		{
+			"name": "cratos",
+			"startTile": 830,
+			"tiles": [830, 827],
+			"delay": 7
+		},
+		{
+			"name": "cratos",
+			"startTile": 861,
+			"tiles": [861, 858],
+			"delay": 7
+		},
+		{
+			"name": "cratos",
+			"startTile": 862,
+			"tiles": [862, 859],
+			"delay": 7
+		},
+		{
+			"name": "cratos",
+			"startTile": 863,
+			"tiles": [863, 860],
+			"delay": 7
+		},
+		{
+			"name": "daviddoodles",
+			"startTile": 734,
+			"tiles": [734, 734, 734, 734, 734, 734, 734, 734, 734, 734, 733, 734, 734, 734, 734, 734, 734, 734, 734, 734, 733, 734, 734, 734, 734, 734, 734, 734, 734, 734, 734, 734, 734, 734, 734, 734, 733, 734, 734, 734, 734, 734, 734, 734, 734, 734],
 			"delay": 3
+		},
+		{
+			"name": "vie",
+			"startTile": 735,
+			"tiles": [735, 738],
+			"delay": 7
+		},
+		{
+			"name": "vie",
+			"startTile": 736,
+			"tiles": [736, 739],
+			"delay": 7
+		},
+		{
+			"name": "vie",
+			"startTile": 768,
+			"tiles": [768, 771],
+			"delay": 7
+		},
+		{
+			"name": "vie",
+			"startTile": 769,
+			"tiles": [769, 772],
+			"delay": 7
+		},
+		{
+			"name": "vie",
+			"startTile": 770,
+			"tiles": [770, 773],
+			"delay": 7
+		},
+		{
+			"name": "vie",
+			"startTile": 801,
+			"tiles": [801, 804],
+			"delay": 7
+		},
+		{
+			"name": "vie",
+			"startTile": 802,
+			"tiles": [802, 805],
+			"delay": 7
+		},
+		{
+			"name": "dimention",
+			"startTile": 774,
+			"tiles": [774, 774, 774, 774, 774, 774, 774, 774, 774, 774, 774, 774, 774, 774, 774, 774, 774, 774, 776, 774, 774, 774, 774, 774, 774, 774, 774, 774, 776, 774, 774, 774, 774, 774, 774, 774],
+			"delay": 3
+		},
+		{
+			"name": "dimention",
+			"startTile": 741,
+			"tiles": [741, 741, 741, 741, 741, 741, 741, 741, 741, 741, 741, 741, 741, 741, 741, 741, 741, 741, 743, 741, 741, 741, 741, 741, 741, 741, 741, 741, 743, 741, 741, 741, 741, 741, 741, 741],
+			"delay": 3
+		},
+		{
+			"name": "ray",
+			"startTile": 777,
+			"tiles": [777, 777, 777, 777, 778],
+			"delay": 7
+		},
+		{
+			"name": "mario",
+			"startTile": 831,
+			"tiles": [831, 831, 831, 833],
+			"delay": 25
+		},
+		{
+			"name": "mario",
+			"startTile": 864,
+			"tiles": [864, 864, 864, 866],
+			"delay": 25
+		},
+		{
+			"name": "mario",
+			"startTile": 865,
+			"tiles": [865, 865, 865, 867],
+			"delay": 25
+		},
+		{
+			"name": "clippy",
+			"startTile": 868,
+			"tiles": [868, 870],
+			"delay": 25
+		},
+		{
+			"name": "katt",
+			"startTile": 874,
+			"tiles": [874, 876, 878, 880],
+			"delay": 8
+		},
+		{
+			"name": "katt",
+			"startTile": 875,
+			"tiles": [875, 877, 879, 881],
+			"delay": 8
+		},
+		{
+			"name": "katt",
+			"startTile": 907,
+			"tiles": [907, 909, 911, 913],
+			"delay": 8
+		},
+		{
+			"name": "katt",
+			"startTile": 908,
+			"tiles": [908, 910, 912, 914],
+			"delay": 8
+		},
+		{
+			"name": "pyriel",
+			"startTile": 1008,
+			"tiles": [1008, 1011],
+			"delay": 7
+		},
+		{
+			"name": "pyriel",
+			"startTile": 1009,
+			"tiles": [1009, 1012],
+			"delay": 7
+		},
+		{
+			"name": "pyriel",
+			"startTile": 1010,
+			"tiles": [1010, 1013],
+			"delay": 7
+		},
+		{
+			"name": "pyriel",
+			"startTile": 1041,
+			"tiles": [1041, 1044],
+			"delay": 7
+		},
+		{
+			"name": "pyriel",
+			"startTile": 1042,
+			"tiles": [1042, 1045],
+			"delay": 7
+		},
+		{
+			"name": "pyriel",
+			"startTile": 1043,
+			"tiles": [1043, 1046],
+			"delay": 7
+		},
+		{
+			"name": "pyriel",
+			"startTile": 1074,
+			"tiles": [1074, 1077],
+			"delay": 7
+		},
+		{
+			"name": "pyriel",
+			"startTile": 1075,
+			"tiles": [1075, 1078],
+			"delay": 7
 		}
 	]
 

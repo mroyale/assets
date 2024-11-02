@@ -147,6 +147,34 @@
 		{
 			"id": 309,
 			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/smrpg/"
+		},
+		{
+			"id": 280,
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/retra/"
+		},
+		{
+			"id": 289,
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/retra/"
+		},
+		{
+			"id": 198,
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/allstars/"
+		},
+		{
+			"id": 90,
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/v7/audio/skins/engineer/"
+		},
+		{
+			"id": 91,
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/v7/audio/skins/engineer/"
+		},
+		{
+			"id": 209,
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/noise/"
+		},
+		{
+			"id": 341,
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/noise/"
 		}
 	]
 }
