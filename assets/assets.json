@@ -173,8 +173,40 @@
 			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/noise/"
 		},
 		{
+			"id": 304,
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/pastel/"
+		},
+		{
 			"id": 341,
 			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/noise/"
+		},
+		{
+			"id": 371,
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/cookierun/squib/"
+		},
+		{
+			"id": 372,
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/cookierun/coffee_candy/"
+		},
+		{
+			"id": 373,
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/cookierun/cake/"
+		},
+		{
+			"id": 380,
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/nitrome/hop_swap/"
+		},
+		{
+			"id": 381,
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/tricky_keys/"
+		},
+		{
+			"id": 382,
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/cookierun/cherry/"
+		},
+		{
+			"id": 383,
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/cookierun/macaron/"
 		}
 	]
 }
