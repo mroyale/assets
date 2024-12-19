@@ -1,0 +1,9 @@
+{
+	"tileAnim":[
+		{"name": "MysteryBox1", "startTile": 23, "tiles":[23, 24, 25, 26], "delay": 4},
+		{"name": "MysteryBox2", "startTile": 14, "tiles":[14, 15, 16, 17], "delay": 4},
+		{"name": "MysteryBox3", "startTile": 6, "tiles":[6, 7, 8, 9], "delay": 4},
+		{"name": "Brick1", "startTile": 19, "tiles":[19, 19, 19, 19, 19, 19, 19, 20, 21, 22], "delay": 4},
+		{"name": "Brick2", "startTile": 10, "tiles":[10, 10, 10, 10, 10, 10, 10, 11, 12, 13], "delay": 4}
+	]
+}
