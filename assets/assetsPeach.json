@@ -60,18 +60,6 @@
 			"delay": 4
 		},
 		{
-			"name": "mysteryBox",
-			"startTile": 1080,
-			"tiles": [1080, 1080, 1080, 1081, 1082, 1081],
-			"delay": 4
-		},
-		{
-			"name": "noteBlock",
-			"startTile": 1014,
-			"tiles": [1014, 1015, 1016, 1015],
-			"delay": 4
-		},
-		{
 			"name": "noteBlock",
 			"startTile": 1146,
 			"tiles": [1146, 1147, 1148, 1147],
