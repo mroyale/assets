@@ -8,10 +8,10 @@
         {"id": 5, "name": "flipBlockDepth1", "tileData": 17727710, "flipData": 223},
         {"id": 6, "name": "flipBlockDepth1", "tileData": 34505091, "flipData": 388},
         {"id": 7, "name": "flipBlockDepth1", "tileData": 51282472, "flipData": 553},
-        {"id": 8, "name": "bumpedBlock", "type": "bumpBlock", "itemBlockSprite": 23, "bumpedSprite": 28},
-		{"id": 9, "name": "bumpedBlock", "type": "bumpBlock", "itemBlockSprite": 188, "bumpedSprite": 193},
-		{"id": 10, "name": "bumpedBlock", "type": "bumpBlock", "itemBlockSprite": 353, "bumpedSprite": 357},
-        {"id": 11, "name": "bumpedBlock", "type": "bumpBlock", "itemBlockSprite": 518, "bumpedSprite": 522}
+        {"id": 8, "name": "bumpedBlock", "type": "bumpBlock", "itemBlockSprite": 23, "bumpedSprite": 27},
+		{"id": 9, "name": "bumpedBlock", "type": "bumpBlock", "itemBlockSprite": 188, "bumpedSprite": 192},
+		{"id": 10, "name": "bumpedBlock", "type": "bumpBlock", "itemBlockSprite": 353, "bumpedSprite": 356},
+        {"id": 11, "name": "bumpedBlock", "type": "bumpBlock", "itemBlockSprite": 518, "bumpedSprite": 521}
     ],
 
     "tileAnim":[
