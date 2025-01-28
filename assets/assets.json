@@ -207,6 +207,10 @@
 		{
 			"id": 383,
 			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/cookierun/macaron/"
+		},
+		{
+			"id": 430,
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/bit_trip/"
 		}
 	]
 }
