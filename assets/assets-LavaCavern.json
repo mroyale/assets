@@ -1,0 +1,39 @@
+{
+    "tileData":[
+        {"id": 0, "name": "flipBlock", "tileData": 917561, "flipData": 58},
+        {"id": 1, "name": "flipBlock", "tileData": 17694942, "flipData": 223},
+        {"id": 2, "name": "flipBlock", "tileData": 34472323, "flipData": 388},
+        {"id": 3, "name": "flipBlock", "tileData": 51249704, "flipData": 553},
+        {"id": 4, "name": "bumpedBlock", "type": "bumpBlock", "itemBlockSprite": 23, "bumpedSprite": 27},
+		{"id": 5, "name": "bumpedBlock", "type": "bumpBlock", "itemBlockSprite": 188, "bumpedSprite": 192},
+		{"id": 6, "name": "bumpedBlock", "type": "bumpBlock", "itemBlockSprite": 353, "bumpedSprite": 357},
+        {"id": 7, "name": "bumpedBlock", "type": "bumpBlock", "itemBlockSprite": 518, "bumpedSprite": 522},
+        {"id": 8, "name": "flipBlockDepth1", "tileData": 950329, "flipData": 58},
+        {"id": 9, "name": "flipBlockDepth1", "tileData": 17727710, "flipData": 223},
+        {"id": 10, "name": "flipBlockDepth1", "tileData": 34505091, "flipData": 388},
+        {"id": 11, "name": "flipBlockDepth1", "tileData": 51282472, "flipData": 553}
+    ],
+
+    "tileAnim":[
+        {"name": "water", "startTile": 491, "tiles":[491, 492, 493, 494], "delay": 5},
+        {"name": "water", "startTile": 524, "tiles":[524, 525, 526, 527], "delay": 5},
+        {"name": "water", "startTile": 557, "tiles":[557, 558, 559, 560], "delay": 5},
+        {"name": "water", "startTile": 590, "tiles":[590, 591, 592, 593], "delay": 5},
+        {"name": "water", "startTile": 623, "tiles":[623, 624, 625, 626], "delay": 5},
+        {"name": "water", "startTile": 656, "tiles":[656, 657, 658, 659], "delay": 5},
+        {"name": "mysteryBox", "startTile": 23,  "tiles":[23, 23, 23, 24, 25, 26], "delay": 4},
+        {"name": "mysteryBox", "startTile": 188,  "tiles":[188, 188, 188, 189, 190, 191], "delay": 4},
+        {"name": "mysteryBox", "startTile": 353, "tiles":[353, 353, 353, 354, 355, 356], "delay": 4},
+        {"name": "mysteryBox", "startTile": 518, "tiles":[518, 518, 518, 519, 520, 521], "delay": 4},
+		{"name": "Toad1", "startTile": 746, "tiles":[746, 747], "delay": 6},
+		{"name": "Toad2", "startTile": 779, "tiles":[779, 780], "delay": 6},
+	    	{"name": "Toad3", "startTile": 747, "tiles":[747, 746], "delay": 6},
+		{"name": "Toad4", "startTile": 780, "tiles":[780, 779], "delay": 6},
+        {"name": "flipBlock", "startTile": 58, "tiles":[58, 59, 60, 57], "delay": 4},
+        {"name": "flipBlock", "startTile": 223, "tiles":[223, 224, 225, 222], "delay": 4},
+        {"name": "flipBlock", "startTile": 354, "tiles":[354, 389, 390, 387], "delay": 4},
+        {"name": "flipBlock", "startTile": 553, "tiles":[553, 554, 555, 552], "delay": 4},
+        {"name": "fire", "startTile": 128, "tiles":[128, 129], "delay": 5},
+        {"name": "fire", "startTile": 130, "tiles":[130, 131], "delay": 5},
+    ]
+}
