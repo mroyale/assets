@@ -34,6 +34,6 @@
         {"name": "flipBlock", "startTile": 354, "tiles":[354, 389, 390, 387], "delay": 4},
         {"name": "flipBlock", "startTile": 553, "tiles":[553, 554, 555, 552], "delay": 4},
         {"name": "fire", "startTile": 128, "tiles":[128, 129], "delay": 5},
-        {"name": "fire", "startTile": 130, "tiles":[130, 131], "delay": 5},
+        {"name": "fire", "startTile": 130, "tiles":[130, 131], "delay": 5}
     ]
 }
