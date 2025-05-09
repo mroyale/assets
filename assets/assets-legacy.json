@@ -1,17 +1,17 @@
 {
     "tileData":[
-        {"id": 0, "name": "flipBlock", "tileData": 917561, "flipData": 58},
-        {"id": 1, "name": "flipBlock", "tileData": 17694942, "flipData": 223},
-        {"id": 2, "name": "flipBlock", "tileData": 34472323, "flipData": 388},
-        {"id": 3, "name": "flipBlock", "tileData": 51249704, "flipData": 553},
+        {"id": 0, "name": "flipBlock", "type": "flipBlock", "tileData": 917561, "flipData": 58},
+        {"id": 1, "name": "flipBlock", "type": "flipBlock", "tileData": 17694942, "flipData": 223},
+        {"id": 2, "name": "flipBlock", "type": "flipBlock", "tileData": 34472323, "flipData": 388},
+        {"id": 3, "name": "flipBlock", "type": "flipBlock", "tileData": 51249704, "flipData": 553},
         {"id": 4, "name": "bumpedBlock", "type": "bumpBlock", "itemBlockSprite": 23, "bumpedSprite": 27},
 		{"id": 5, "name": "bumpedBlock", "type": "bumpBlock", "itemBlockSprite": 188, "bumpedSprite": 192},
 		{"id": 6, "name": "bumpedBlock", "type": "bumpBlock", "itemBlockSprite": 353, "bumpedSprite": 357},
         {"id": 7, "name": "bumpedBlock", "type": "bumpBlock", "itemBlockSprite": 518, "bumpedSprite": 522},
-        {"id": 8, "name": "flipBlockDepth1", "tileData": 950329, "flipData": 58},
-        {"id": 9, "name": "flipBlockDepth1", "tileData": 17727710, "flipData": 223},
-        {"id": 10, "name": "flipBlockDepth1", "tileData": 34505091, "flipData": 388},
-        {"id": 11, "name": "flipBlockDepth1", "tileData": 51282472, "flipData": 553}
+        {"id": 8, "name": "flipBlockDepth1", "type": "flipBlock", "tileData": 950329, "flipData": 58},
+        {"id": 9, "name": "flipBlockDepth1", "type": "flipBlock", "tileData": 17727710, "flipData": 223},
+        {"id": 10, "name": "flipBlockDepth1", "type": "flipBlock", "tileData": 34505091, "flipData": 388},
+        {"id": 11, "name": "flipBlockDepth1", "type": "flipBlock", "tileData": 51282472, "flipData": 553}
     ],
 
     "tileAnim":[
