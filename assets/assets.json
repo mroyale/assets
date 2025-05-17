@@ -181,6 +181,10 @@
 			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/noise/"
 		},
 		{
+			"id": 364,
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/sm64/"
+		},
+		{
 			"id": 371,
 			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/cookierun/squib/"
 		},
