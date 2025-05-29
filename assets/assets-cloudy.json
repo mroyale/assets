@@ -33,9 +33,9 @@
         {"name": "flipBlock", "startTile": 223, "tiles":[223, 224, 225, 222], "delay": 4},
         {"name": "flipBlock", "startTile": 354, "tiles":[354, 389, 390, 387], "delay": 4},
         {"name": "flipBlock", "startTile": 553, "tiles":[553, 554, 555, 552], "delay": 4},
-        {"name": "king", "startTile": 804, "tiles":[804, 806], "delay": 6},
-        {"name": "king", "startTile": 805, "tiles":[805, 807], "delay": 6},
-        {"name": "king", "startTile": 837, "tiles":[837, 839], "delay": 6},
-        {"name": "king", "startTile": 838, "tiles":[838, 840], "delay": 6}
+        {"name": "king", "startTile": 804, "tiles":[804, 806], "delay": 8},
+        {"name": "king", "startTile": 805, "tiles":[805, 807], "delay": 8},
+        {"name": "king", "startTile": 837, "tiles":[837, 839], "delay": 8},
+        {"name": "king", "startTile": 838, "tiles":[838, 840], "delay": 8}
     ]
 }
