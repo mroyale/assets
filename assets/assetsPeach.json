@@ -24,6 +24,12 @@
 			"delay": 20
 		},
 		{
+			"name": "water",
+			"startTile": 1085,
+			"tiles": [1085, 1086, 1087, 1088],
+			"delay": 20
+		},
+		{
 			"name": "mysteryBox",
 			"startTile": 24,
 			"tiles": [24, 24, 24, 25, 26, 25],
@@ -51,12 +57,6 @@
 			"name": "mysteryBox",
 			"startTile": 288,
 			"tiles": [288, 288, 288, 289, 290, 289],
-			"delay": 4
-		},
-		{
-			"name": "mysteryBox",
-			"startTile": 948,
-			"tiles": [948, 948, 948, 949, 950, 949],
 			"delay": 4
 		},
 		{
