@@ -125,6 +125,10 @@
 			"music": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/yoshi.mp3"
 		},
 		{
+			"id": 126,
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/skinmariobros/"
+		},
+		{
 			"id": 249,
 			"music": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/8bit.mp3"
 		},
@@ -211,6 +215,10 @@
 		{
 			"id": 383,
 			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/cookierun/macaron/"
+		},
+		{
+			"id": 387,
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/skinmariobros/"
 		},
 		{
 			"id": 430,
