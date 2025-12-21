@@ -73,7 +73,7 @@
 		},
 		{
 			"name": "mysteryBox",
-			"startTile": 1245,
+			"startTile": 1509,
 			"tiles": [1509, 1509, 1509, 1510, 1511, 1510],
 			"delay": 4
 		},
