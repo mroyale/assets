@@ -42,6 +42,10 @@
         {"name": "Pyriel4", "startTile": 1068, "tiles":[1068, 1071], "delay": 8},
         {"name": "Pyriel5", "startTile": 1099, "tiles":[1099, 1102], "delay": 8},
         {"name": "Pyriel5", "startTile": 1100, "tiles":[1100, 1103], "delay": 8},
-        {"name": "Pyriel5", "startTile": 1101, "tiles":[1101, 1104], "delay": 8}
+        {"name": "Pyriel5", "startTile": 1101, "tiles":[1101, 1104], "delay": 8},
+        {"name": "Terminal", "startTile": 1072, "tiles":[1072, 1074], "delay": 8},
+        {"name": "Terminal2", "startTile": 1073, "tiles":[1073, 1075], "delay": 8},
+        {"name": "Terminal3", "startTile": 1105, "tiles":[1105, 1107], "delay": 8},
+        {"name": "Terminal4", "startTile": 1105, "tiles":[1106, 1108], "delay": 8}
     ]
 }
