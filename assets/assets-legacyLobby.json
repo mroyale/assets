@@ -46,6 +46,6 @@
         {"name": "Terminal", "startTile": 1072, "tiles":[1072, 1074], "delay": 8},
         {"name": "Terminal2", "startTile": 1073, "tiles":[1073, 1075], "delay": 8},
         {"name": "Terminal3", "startTile": 1105, "tiles":[1105, 1107], "delay": 8},
-        {"name": "Terminal4", "startTile": 1105, "tiles":[1106, 1108], "delay": 8}
+        {"name": "Terminal4", "startTile": 1106, "tiles":[1106, 1108], "delay": 8}
     ]
 }
