@@ -50,6 +50,6 @@
         {"name": "Katt1", "startTile": 1076, "tiles":[1076, 1078], "delay": 10},
         {"name": "Katt2", "startTile": 1077, "tiles":[1077, 1079], "delay": 10},
         {"name": "Katt3", "startTile": 1109, "tiles":[1109, 1111], "delay": 10},
-        {"name": "Katt4", "startTile": 1109, "tiles":[1110, 1112], "delay": 10}
+        {"name": "Katt4", "startTile": 1110, "tiles":[1110, 1112], "delay": 10}
     ]
 }
