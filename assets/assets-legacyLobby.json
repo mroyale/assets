@@ -46,6 +46,10 @@
         {"name": "Terminal", "startTile": 1072, "tiles":[1072, 1074], "delay": 8},
         {"name": "Terminal2", "startTile": 1073, "tiles":[1073, 1075], "delay": 8},
         {"name": "Terminal3", "startTile": 1105, "tiles":[1105, 1107], "delay": 8},
-        {"name": "Terminal4", "startTile": 1106, "tiles":[1106, 1108], "delay": 8}
+        {"name": "Terminal4", "startTile": 1106, "tiles":[1106, 1108], "delay": 8},
+        {"name": "Katt1", "startTile": 1076, "tiles":[1076, 1078], "delay": 10},
+        {"name": "Katt2", "startTile": 1077, "tiles":[1077, 1079], "delay": 10},
+        {"name": "Katt3", "startTile": 1109, "tiles":[1109, 1111], "delay": 10},
+        {"name": "Katt4", "startTile": 1109, "tiles":[1110, 1112], "delay": 10}
     ]
 }
