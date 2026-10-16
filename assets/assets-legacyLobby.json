@@ -50,6 +50,19 @@
         {"name": "Katt1", "startTile": 1076, "tiles":[1076, 1078], "delay": 10},
         {"name": "Katt2", "startTile": 1077, "tiles":[1077, 1079], "delay": 10},
         {"name": "Katt3", "startTile": 1109, "tiles":[1109, 1111], "delay": 10},
-        {"name": "Katt4", "startTile": 1110, "tiles":[1110, 1112], "delay": 10}
+        {"name": "Katt4", "startTile": 1110, "tiles":[1110, 1112], "delay": 10},
+        {"name": "DavidShake1", "startTile": 1060, "tiles":[1060, 1126], "delay": 4},
+        {"name": "DavidShake2", "startTile": 1061, "tiles":[1061, 1127], "delay": 4},
+        {"name": "DavidShake3", "startTile": 1093, "tiles":[1093, 1159], "delay": 4},
+        {"name": "DavidShake4", "startTile": 1094, "tiles":[1094, 1160], "delay": 4},
+        {"name": "VieHold1", "startTile": 1030, "tiles":[1030, 1162], "delay": 10},
+        {"name": "VieHold2", "startTile": 1031, "tiles":[1031, 1163], "delay": 10},
+        {"name": "VieHold3", "startTile": 1063, "tiles":[1063, 1195], "delay": 10},
+        {"name": "VieHold4", "startTile": 1064, "tiles":[1064, 1196], "delay": 10},
+        {"name": "VieHold5", "startTile": 1096, "tiles":[1096, 1228], "delay": 10},
+        {"name": "VieHold6", "startTile": 1097, "tiles":[1097, 1229], "delay": 10},
+        {"name": "VieHold7", "startTile": 1128, "tiles":[1128, 30], "delay": 10},
+        {"name": "VieHold8", "startTile": 1129, "tiles":[1129, 1261], "delay": 10},
+        {"name": "VieHold9", "startTile": 1130, "tiles":[1130, 30], "delay": 10}
     ]
 }
