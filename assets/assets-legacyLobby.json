@@ -67,7 +67,7 @@
         {"name": "LuccaHold1", "startTile": 1047, "tiles":[1047, 1049], "delay": 10},
         {"name": "LuccaHold2", "startTile": 1048, "tiles":[1048, 1050], "delay": 10},
         {"name": "LuccaHold3", "startTile": 1080, "tiles":[1080, 1082], "delay": 10},
-        {"name": "LuccaHold4", "startTile": 1081, "tiles":[1081, 1084], "delay": 10},
+        {"name": "LuccaHold4", "startTile": 1081, "tiles":[1081, 1083], "delay": 10},
         {"name": "LuccaHold4", "startTile": 1113, "tiles":[1113, 1115], "delay": 10},
         {"name": "LuccaHold4", "startTile": 1114, "tiles":[1114, 1116], "delay": 10}
     ]
