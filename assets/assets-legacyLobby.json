@@ -63,6 +63,12 @@
         {"name": "VieHold6", "startTile": 1097, "tiles":[1097, 1229], "delay": 10},
         {"name": "VieHold7", "startTile": 1128, "tiles":[1128, 30], "delay": 10},
         {"name": "VieHold8", "startTile": 1129, "tiles":[1129, 1261], "delay": 10},
-        {"name": "VieHold9", "startTile": 1130, "tiles":[1130, 30], "delay": 10}
+        {"name": "VieHold9", "startTile": 1130, "tiles":[1130, 30], "delay": 10},
+        {"name": "LuccaHold1", "startTile": 1047, "tiles":[1047, 1049], "delay": 10},
+        {"name": "LuccaHold2", "startTile": 1048, "tiles":[1048, 1050], "delay": 10},
+        {"name": "LuccaHold3", "startTile": 1080, "tiles":[1080, 1082], "delay": 10},
+        {"name": "LuccaHold4", "startTile": 1081, "tiles":[1081, 1084], "delay": 10},
+        {"name": "LuccaHold4", "startTile": 1113, "tiles":[1113, 1115], "delay": 10},
+        {"name": "LuccaHold4", "startTile": 1114, "tiles":[1114, 1116], "delay": 10}
     ]
 }
