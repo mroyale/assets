@@ -74,9 +74,9 @@
         {"name": "Infringio", "startTile": 1132, "tiles":[1132, 1134, 1136], "delay": 6},
         {"name": "Infringio", "startTile": 1164, "tiles":[1164, 1166, 1168], "delay": 6},
         {"name": "Infringio", "startTile": 1165, "tiles":[1165, 1167, 1169], "delay": 6},
-        {"name": "LinkyTay", "startTile": 1188, "tiles":[1188, 1190, 1192, 1190], "delay": 4},
-        {"name": "LinkyTay", "startTile": 1189, "tiles":[1189, 1191, 1193, 1191], "delay": 4},
-        {"name": "LinkyTay", "startTile": 1221, "tiles":[1221, 1223, 1225, 1223], "delay": 4},
-        {"name": "LinkyTay", "startTile": 1222, "tiles":[1222, 1224, 1226, 1224], "delay": 4}
+        {"name": "LinkyTay", "startTile": 1188, "tiles":[1188, 1188, 1190, 1192, 1192, 1190], "delay": 3},
+        {"name": "LinkyTay", "startTile": 1189, "tiles":[1189, 1189, 1191, 1193, 1193, 1191], "delay": 3},
+        {"name": "LinkyTay", "startTile": 1221, "tiles":[1221, 1221, 1223, 1225, 1225, 1223], "delay": 3},
+        {"name": "LinkyTay", "startTile": 1222, "tiles":[1222, 1222, 1224, 1226, 1226, 1224], "delay": 3}
     ]
 }
