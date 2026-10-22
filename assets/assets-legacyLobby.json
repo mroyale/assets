@@ -77,6 +77,14 @@
         {"name": "LinkyTay", "startTile": 1188, "tiles":[1188, 1188, 1190, 1192, 1192, 1190], "delay": 3},
         {"name": "LinkyTay", "startTile": 1189, "tiles":[1189, 1189, 1191, 1193, 1193, 1191], "delay": 3},
         {"name": "LinkyTay", "startTile": 1221, "tiles":[1221, 1221, 1223, 1225, 1225, 1223], "delay": 3},
-        {"name": "LinkyTay", "startTile": 1222, "tiles":[1222, 1222, 1224, 1226, 1226, 1224], "delay": 3}
+        {"name": "LinkyTay", "startTile": 1222, "tiles":[1222, 1222, 1224, 1226, 1226, 1224], "delay": 3},
+        {"name": "Captian1", "startTile": 1197,  "tiles":[1197, 1197, 1197, 1200, 1202, 1200], "delay": 4},
+        {"name": "Captian2", "startTile": 1198,  "tiles":[1198, 1198, 1198, 1201, 1203, 1201], "delay": 4},
+        {"name": "Captian3", "startTile": 1230,  "tiles":[1230, 1230, 1230, 1233, 1235, 1233], "delay": 4},
+        {"name": "Captian4", "startTile": 1231,  "tiles":[1231, 1231, 1231, 1234, 1236, 1234], "delay": 4},
+        {"name": "Clippy1", "startTile": 1137, "tiles":[1137, 1139], "delay": 8},
+        {"name": "Clippy2", "startTile": 1138, "tiles":[1138, 1140], "delay": 8},
+        {"name": "Clippy3", "startTile": 1170, "tiles":[1170, 1172], "delay": 8},
+        {"name": "Clippy4", "startTile": 1171, "tiles":[1171, 1173], "delay": 8}
     ]
 }
