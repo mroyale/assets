@@ -1,0 +1,5 @@
+{
+    "tileAnim":[
+        {"name": "mysteryBox", "startTile": 0,  "tiles":[0, 0, 1, 2, 3, 4], "delay": 8}
+    ]
+}
