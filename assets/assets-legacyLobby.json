@@ -85,6 +85,14 @@
         {"name": "Clippy1", "startTile": 1137, "tiles":[1137, 1139], "delay": 8},
         {"name": "Clippy2", "startTile": 1138, "tiles":[1138, 1140], "delay": 8},
         {"name": "Clippy3", "startTile": 1170, "tiles":[1170, 1172], "delay": 8},
-        {"name": "Clippy4", "startTile": 1171, "tiles":[1171, 1173], "delay": 8}
+        {"name": "Clippy4", "startTile": 1171, "tiles":[1171, 1173], "delay": 8},
+        {"name": "Ray", "startTile": 1141, "tiles":[1141, 1143], "delay": 15},
+        {"name": "Ray", "startTile": 1142, "tiles":[1142, 1144], "delay": 15},
+        {"name": "Ray", "startTile": 1174, "tiles":[1174, 1176], "delay": 15},
+        {"name": "Ray", "startTile": 1175, "tiles":[1175, 1177], "delay": 15},
+        {"name": "dimension", "startTile": 1051, "tiles":[1051, 1052], "delay": 8},
+        {"name": "dimension", "startTile": 1084, "tiles":[1084, 1085], "delay": 8},
+        {"name": "dimension", "startTile": 1117, "tiles":[1117, 1118], "delay": 8}
+    ]
     ]
 }
