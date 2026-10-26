@@ -94,5 +94,4 @@
         {"name": "dimension", "startTile": 1084, "tiles":[1084, 1085], "delay": 8},
         {"name": "dimension", "startTile": 1117, "tiles":[1117, 1118], "delay": 8}
     ]
-    ]
 }
