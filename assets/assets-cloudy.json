@@ -1,4 +1,6 @@
 {
+	"vineSprite": 94,
+	
     "tileData":[
         {"id": 0, "name": "flipBlock", "type": "flipBlock", "tileData": 917561, "flipData": 58},
         {"id": 1, "name": "flipBlock", "type": "flipBlock", "tileData": 17694942, "flipData": 223},
